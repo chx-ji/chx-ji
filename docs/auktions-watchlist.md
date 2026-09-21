@@ -1245,22 +1245,27 @@ Versandfilter gescheitert, nicht an der Warenqualität.
 sind die einzige Warenart, bei der garantiert niemand vorher hineingesehen hat — das
 war schon immer der inhaltlich beste Treffer, nur logistisch gesperrt.
 
-#### A2 · Ausland (nur mit Versand)
+#### A2 · Ausland (nur mit belegtem Versand nach Deutschland)
 
-| Plattform | Land | Auftraggeber | Versand | Status |
+Stand nach der Verifikation in Teil 13. **Nur wer Deutschland belegt bedient, ist drin.**
+
+| Plattform | Land | Auftraggeber | Versand DE | Status |
 |---|---|---|---|---|
-| **Auctim** | 🇧🇪 BE | Liquidation, Insolvenz, Post-Restanten | ◐ **siehe Korrektur in Teil 13** — DE als Lieferland unbelegt | **bedingt** |
-| **Troostwijk** | 🇳🇱 NL | Insolvenzverwalter, Kuratoren | ◐ **nur „Bezorgveiling" / Delivery auction** | **teilweise drin** |
-| **Vavato** | 🇧🇪 BE | Insolvenz, Firmeninventar | ◐ nur Lose mit „Delivery Europe" | **teilweise drin** |
-| **Dorotheum** | 🇦🇹 AT | u.a. behördliche/gerichtliche Verwertung | ✅/◐ je Objekt | **drin** |
-| **Interencheres** | 🇫🇷 FR | Handelsgerichte, mandataires liquidateurs | ❌ Gerichtsverkäufe sind Abholung FR | **raus**, außer Lose mit Filter „Livraison possible" |
-| **Domeinen Roerende Zaken** | 🇳🇱 NL | NL-Finanzministerium | ❌ Abholpflicht 8 Tage | **raus** |
-| **FinShop** | 🇧🇪 BE | FÖD Finanzen | ❌ Webshop nur BE, Auktion nur Abholung | **raus** |
-| ES, SE, FI, PL, LT, IT, PT staatlich | — | Steuer-/Vollstreckungsbehörden | ❌ Versand nirgends belegt | **raus** |
+| **Dorotheum** | 🇦🇹 AT | u.a. behördliche/gerichtliche Verwertung | ✅ organisiert Versand; DE nicht als Problemland gelistet | **DRIN** |
+| **Troostwijk** | 🇳🇱 NL | Insolvenzverwalter, Kuratoren | ◐ nur „Bezorgveiling" **und** nur wenn DE in der Lieferregion der Auktion liegt | **bedingt** |
+| **Vavato** | 🇧🇪 BE | Insolvenz, Firmeninventar | ◐ nur „Free delivery"-Auktionen; DE-Adresse unbelegt | **bedingt** |
+| **Auctim** | 🇧🇪 BE | Liquidation, Insolvenz, Post-Restanten | ◐ bietet selbst keinen Versand; Gratis-Lieferung nur kampagnenweise, gefunden nur BE/NL | **bedingt** |
+| **Interencheres** | 🇫🇷 FR | Handelsgerichte, mandataires liquidateurs | ❌ Gerichtsverkäufe sind Abholung FR | **RAUS**, außer Lose mit Filter „Livraison possible" |
+| **Domeinen Roerende Zaken** | 🇳🇱 NL | NL-Finanzministerium | ❌ Abholpflicht 8 Tage | **RAUS** |
+| **FinShop** | 🇧🇪 BE | FÖD Finanzen | ❌ Webshop nur BE, Auktion nur Abholung | **RAUS** |
+| ES · SE · FI · PL · LT · IT · PT staatlich | — | Steuer-/Vollstreckungsbehörden | ❌ nirgends belegt | **RAUS** |
 
-**Merkregel bei Troostwijk:** ohne das Wort *Bezorgveiling* bzw. *Delivery auction* im
-Auktionstitel nicht bieten. Troostwijk bietet für Pickup-Auktionen keinerlei
-Transportdienst an.
+**Ergebnis:** Von allen ausländischen Primärquellen bleibt **nur Dorotheum** uneingeschränkt
+übrig. Das bestätigt die Regel aus Teil 11 — Versand ist keine Behördenleistung.
+
+**Merkregel Troostwijk:** ohne das Wort *Bezorgveiling* bzw. *Delivery auction* nicht
+bieten, und auch dann die Lieferregion in den Auktionsdetails prüfen. Für Pickup-Auktionen
+bietet Troostwijk keinerlei Transportdienst.
 
 ---
 
@@ -1277,19 +1282,19 @@ Inhalt.
 | **RetourenDirekt** | Amazon-/Shein-Paletten, ca. 600 Artikel, ohne Manifest | ✅/◐ EU | B2B | https://retourendirekt.de/ |
 | **Restposten.de** | Mixpaletten, Retouren, Restbestände | ◐ je Anbieter | primär B2B | https://www.restposten.de/ |
 
-#### B2 · Ausland (nur mit Versand)
+#### B2 · Ausland (nur mit belegtem Versand nach Deutschland)
 
-| Plattform | Land | Ware | Versand | Zugang | Link |
+| Plattform | Land | Ware | Versand DE | Zugang | Status |
 |---|---|---|---|---|---|
-| **Returnstore.pl** | 🇵🇱 PL | Mystery Boxes, Kundenretouren, Paletten | ✅ DE | Privat | https://www.returnstore.pl/en/ |
-| **King Colis** | 🇫🇷 FR | unzustellbare Pakete nach Gewicht | ✅ EU | Privat | https://www.king-colis.com/en |
-| **PackedBoxs** | 🇳🇱 NL | Mystery-/Lost-Parcel-Pakete | ✅ EU | Privat | https://packedboxs.com/ |
-| **B-Aftermarket** | 🇪🇸 ES | versiegelte Amazon-ES-Paletten | ✅/◐ EU | B2B + USt-ID | https://b-aftermarket.com/ |
-| **Stocklear** | 🇫🇷 FR | Retouren-/Überbestandspaletten | ✅/◐ Transport organisierbar | B2B | https://joblot.stocklear.eu/ |
-| **Merkandi** | 🇵🇱 PL/EU | Marktplatz: Mystery Pallets, Lost Parcels | ◐ **je Anbieter** | B2B | https://merkandi.com/wholesale/return-pallets-europe |
-| **Jobalots** | 🇪🇺 EU/UK | Retourenauktionen | ✅ EU ⚠️ **UK-Ware wegen Zoll meiden** | gemischt | https://jobalots.com/ |
-| **B-Stock Amazon EU** | 🇪🇺/US | Amazon-Liquidation | ✅ | B2B + USt-ID | https://bstock.com/amazoneu/ |
-| **GovPlanet Europe** | 🇪🇺/US | Behörden-/Militärsurplus | ◐ Parcel/LTL-Filter | gemischt | https://eu.ironplanet.com/ |
+| **Jobalots** | 🇪🇺 EU/PL | Retourenauktionen | ✅ **wörtlich „including Germany"**, EU-Lager Polen, Palletways | gemischt | **DRIN** ⚠️ nur EU-Lagerware, nicht UK |
+| **Returnstore.pl** | 🇵🇱 PL | Mystery Boxes, Kundenretouren, Paletten | ✅ **Deutschland in der Länderliste** | Privat/Händler | **DRIN** |
+| **B-Aftermarket** | 🇪🇸 ES | versiegelte Amazon-ES-Paletten | ◐ „across the EU", DE nie wörtlich | **B2B + USt-ID** | **bedingt** |
+| **Stocklear** | 🇫🇷 FR | Retouren-/Überbestandspaletten | ◐ „toute l'Europe", DE nie wörtlich | B2B | **bedingt** |
+| **Merkandi** | 🇵🇱 PL/EU | Marktplatz: Mystery Pallets, Lost Parcels | ◐ **je Anbieter**, kein Plattformversand | B2B-Abo | **bedingt** |
+| **B-Stock Amazon EU** | 🇪🇺/US | Amazon-Liquidation | ◐ nicht nachverifiziert | B2B + USt-ID | **bedingt** |
+| **GovPlanet Europe** | 🇪🇺/US | Behörden-/Militärsurplus | ◐ Parcel/LTL-Filter, nicht nachverifiziert | gemischt | **bedingt** |
+| **King Colis** | 🇫🇷 FR | unzustellbare Pakete nach Gewicht | ❓ **keine Lieferländer auffindbar** | — | **RAUS bis geprüft** |
+| **PackedBoxs** | 🇳🇱 NL | Mystery-/Lost-Parcel-Pakete | ❓ nur Marketingzeile, DE nie wörtlich | Endkunden | **RAUS bis geprüft** |
 
 Der EU-only-Konflikt zu B-Stock und GovPlanet aus Teil 7 bleibt bestehen. Unter der
 neuen Regel ist er nachrangig: beide haben Versand, damit erfüllen sie den harten
@@ -1310,15 +1315,23 @@ Cypria Auctions · Castle Auctions
 
 ### Tagesablauf
 
-**Zuerst (Gruppe A, Deutschland):**
-Weidler → Zoll-Auktion → Justiz-Auktion → Fundsachen-Auktion → Sonderauktionen →
-RESTLOS → VEBEG
+**Zuerst — Deutschland, Versand egal (Gruppe A):**
+Weidler *(⚠️ 36,85 % Aufgeld)* → Zoll-Auktion → Justiz-Auktion → Fundsachen-Auktion
+*(18 % + USt. aufs Aufgeld)* → Sonderauktionen → RESTLOS → VEBEG *(B2B)*
 
-**Dann (Gruppe A, Ausland mit Versand):**
-Auctim → Troostwijk *(nur Bezorgveiling)* → Vavato *(nur Delivery Europe)* → Dorotheum
+**Dann — Deutschland, Gruppe B:**
+RetourenDirekt *(B2B)* → Restposten.de *(B2B-Pflicht belegt, Privatpersonen ohne
+Vollzugang)*
 
-**Zuletzt, nur wenn der Preis stimmt (Gruppe B):**
-Returnstore → King Colis → PackedBoxs → RetourenDirekt → B-Aftermarket → Rest
+**Dann — Ausland mit belegtem Versand:**
+Jobalots → Returnstore.pl → Dorotheum
+
+**Nur nach eigener Prüfung der Versandseite:**
+B-Aftermarket · Stocklear · Merkandi · Troostwijk *(Region!)* · Vavato · Auctim ·
+B-Stock · GovPlanet
+
+**Nicht einplanen:** King Colis · PackedBoxs · Interencheres-Gerichtsverkäufe ·
+Domeinen RZ · FinShop · alle übrigen staatlichen EU-Plattformen
 
 Confidence: **H** für die Zuordnung Deutschland/Ausland und für die Versandbelege bei
 Auctim, Troostwijk-Bezorgveiling, DRZ und FinShop. **M** für die Versandangaben der
