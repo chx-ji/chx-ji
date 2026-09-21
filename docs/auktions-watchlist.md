@@ -999,6 +999,124 @@ verifizierbar, deshalb bewusst abgestuft statt geglaubt.
 
 ---
 
+## Teil 10 — Suchergebnisse & operative Einstiegspunkte (21.09.2026)
+
+Erste echte Suchrunde über drei parallele Rechercheagenten, 44 Suchanfragen.
+
+⚠️ **Methodische Einschränkung:** Es war nur Websuche möglich, kein direkter Seitenabruf
+(Netzwerk-Policy der Umgebung). Daher stammen alle Angaben aus Suchergebnis-Snippets.
+**Keine Preise, keine Enddaten, keine Laufzeitbestätigung.** Einzellose unten sind
+Belege dafür, dass es die Warenart gibt — nicht als aktuell laufend bestätigt.
+Dauerhaft brauchbar sind die **Einstiegs-URLs und Suchbegriffe**, nicht die Einzellinks.
+
+### Die operativ wichtigsten Erkenntnisse
+
+**1. Troostwijk: „Bezorgveiling" ist das Filterwort.**
+Troostwijk kennzeichnet Lieferauktionen explizit als *Bezorgveiling* / *Delivery
+auction*. Nur diese erfüllen den Versandfilter. Liefergebiet ist standardmäßig NL/BE,
+eine ausländische Lieferadresse lässt sich im Checkout eingeben. Für reguläre
+Pickup-Auktionen bietet Troostwijk **keinen** Transportdienst — der Vertrag läuft direkt
+mit dem Spediteur, Risiko beim Käufer. Alle Insolvenz-/Kuratorauktionen sind mit hoher
+Wahrscheinlichkeit reine Pickup-Auktionen. Confidence H für die Unterscheidung.
+
+**2. Auctim hat eine Auktionsgattung mit kostenlosem EU-Versand.**
+Slug `lost-return-parcels-free-shipping`, „free insured shipping within the EU",
+Lieferung binnen 14 Tagen nach Auktionsende. Das ist die einzige gefundene Quelle mit
+explizit ausgewiesenem Gratis-EU-Versand. Confidence M — Laufzeitstatus nicht
+verifizierbar.
+
+**3. Korrektur zu Interencheres.**
+Teil 8 und 9 führen Interencheres weit oben. Die Recherche zeigt: die
+*ventes judiciaires* sind quellenseitig genau richtig (Commissaires-priseurs im Auftrag
+von mandataires liquidateurs und Handelsgerichten) — aber **praktisch alles Abholung in
+Frankreich, kein DE-Versand indiziert**. Der Versandfilter von Teil 8 ist dort mit ◐
+womöglich zu günstig bewertet. **Vor dem Bieten je Verkauf prüfen, nicht auf die
+Plattformbewertung verlassen.** Confidence M.
+
+**4. „Retourgoederen" ≠ Insolvenzmasse.**
+Ein erheblicher Teil der gefundenen Retouren-Lose bei Troostwijk und Vavato stammt aus
+Retouren-Zwischenhandel, nicht aus Insolvenzmassen — also Gruppe B, nicht Gruppe A.
+Sauber Gruppe A zuzuordnen waren: Interencheres-Gerichtsverkäufe, Troostwijk
+BCC/wielrennershop.nl, Vavato Lima Industrie.
+
+### Einstiegs-URLs (dauerhaft, nach Restlaufzeit sortieren)
+
+| Plattform | Einstieg |
+|---|---|
+| Zoll-Auktion | https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n0=search |
+| Justiz-Auktion | https://www.justiz-auktion.de/ |
+| Fundsachen-Auktion — Blindware | https://www.fundsachen-auktion.de/browse/search_category/Karton_Koffer_mit_diversem_Inhalt_457.html |
+| Sonderauktionen | https://www.sonderauktionen.net/ |
+| Troostwijk (Filter Bezorgveiling) | https://www.troostwijkauctions.com/en/auctions |
+| Auctim | https://www.auctim.com/en/auctions |
+| Vavato | https://www.vavato.com/en/auctions |
+| Interencheres — Retouren/Bestände | https://www.interencheres.com/biens-equipement/marchandises-neuves-et-stocks/ventes |
+
+### Suchbegriffe je Plattform
+
+| Sprache | Begriffe |
+|---|---|
+| **Deutsch** | Konvolut · ungeprüft · nicht geprüft · defekt · Bastler · Teileträger · Posten · Mischposten · Räumungsgut · diverse · siehe Bilder · Ü-Box |
+| **Französisch** | lot divers · non testé · non contrôlé · dans l'état · matériel divers · retour client · NPAI · colis perdu · liquidation judiciaire · vente judiciaire · invendus |
+| **Niederländisch** | partij · ongetest · defect · retourgoederen · restanten · faillissement · bezorgveiling · verloren postpakketten |
+| **Tschechisch** | nezkoušeno · soubor · vadné · konvolut |
+| **Polnisch** | uszkodzone · nie testowane · zestaw · partia |
+
+### Gefundene Warenarten als Beleg
+
+**Justiz-Auktion — die Kategorie „Räumungsgut"** war vorher nicht auf der Liste:
+Wohnungsräumungen als Kubikmeterware ohne Einzelaufstellung (38 m³, 32 m³, 26 Kartons,
+29 Kisten Elektrikerbedarf). Maximale Blackbox, niedrige Bieterkonkurrenz, weil der
+Aufwand abschreckt.
+⚠️ Besichtigung ausgeschlossen, „wie es steht und liegt", Abholung komplett an einem
+Tag, Paletten extra ca. 22,50 € netto. **Das reale Risiko ist die Entsorgung des
+Restmüllanteils, nicht der Kaufpreis.**
+
+**Fundsachen-Auktion — „Ü-Boxen"**: Blindware, ausschließlich nach Gewicht beschrieben
+(z.B. ca. 5,8 kg). Laut AGB ist der Inhalt **auch dem Versteigerer unbekannt**.
+
+**Zoll-Auktion**: Stückzahl-Konvolute (27 Ferngläser, 215-teiliger Haushaltsmischposten,
+105 Teile für Bastler), Fundrad-Bündel aus dem Fundbüro Hamburg inkl. Pedelecs,
+Münzkonvolute.
+
+**Justiz-Auktion**: Uhren- und Schmuckkonvolute mit der Standardformel
+„Betriebstauglichkeit nicht geprüft"; Werkzeugkonvolute WÜRTH und HITACHI;
+Elektronikposten.
+
+### Kostenfallen (verifiziert)
+
+| Plattform | Kosten |
+|---|---|
+| **Fundsachen-Auktion.de** | **18 % Aufgeld + 19 % USt. auf das Aufgeld**, plus ca. 13,50 € Inlandsversand. Eine 40-€-Box kostet real ~62 € |
+| **Darabanth** | 25 % Käuferprovision |
+| **Justiz-Auktion Räumungsgut** | Paletten ca. 22,50 € netto extra, Abholung an einem Tag |
+| **Catawiki** | 9 % + 3 € Buyer Protection |
+
+### Risiken, die in Losbeschreibungen auftauchen
+
+- **iCloud-/Gerätesperren nicht geprüft** bei Apple- und Handy-Konvoluten → gesperrte
+  Geräte haben nur Ersatzteilwert
+- **Pedelec-Akkus ungetestet, ohne Ladegerät und Akkuschlüssel** → ein toter Akku kippt
+  die Kalkulation eines 10er-Radbündels
+- **Laptops ohne Festplatten, Netzteile und Betriebssystem**
+- **Fundräder nicht auf Verkehrssicherheit geprüft**, oft reparaturbedürftig
+- Durchgehend: **Gewährleistung ausgeschlossen, kein Widerrufs- oder Rückgaberecht**
+
+### Methodischer Fund
+
+Beim Zoll wird das Mindestgebot bei **Münzkonvoluten** teils nur nach Materialwert plus
+Pauschale angesetzt, nicht nach Sammlerwert — strukturelle Unterbewertung. Gilt **nicht**
+für punzierten Goldschmuck, wo der Markt den Materialwert kennt.
+
+Confidence: **H** für Einstiegs-URLs, Suchbegriffe, Gebührenstrukturen und die
+Bezorgveiling-Unterscheidung. **M** für die Zuordnung einzelner Auktionen zu Gruppe A
+oder B. **N** für Aktualität und Laufzeit jedes einzelnen genannten Loses.
+
+**Prüfweg:** Einstiegs-URLs im Browser öffnen, nach Restlaufzeit sortieren. Preis und
+Frische sind nur dort verlässlich.
+
+---
+
 ## Confidence & Prüfweg
 
 - **H** — Plattformen, Online-Bieten und die angegebenen Versandregeln.
