@@ -85,7 +85,145 @@ schlecht beschriebene Fundkoffer.
 
 ---
 
-## Teil 3 — Details je Plattform
+## Teil 2b — Retouren-, Mystery- & Liquidations-Quellen (Ergänzung)
+
+Diese acht waren in der ursprünglichen Masterliste **nicht** enthalten und treffen den
+Loot-Ansatz deutlich besser (echte Blind-Ware statt Einzelstücke).
+
+| Plattform | Land | Was gibt's? | Online | Versand DE/EU | Loot-Faktor |
+|---|---|---|---|---|---|
+| **Returnstore.pl** | 🇵🇱 Polen | echte Mystery-Boxen, Amazon-Boxen, ungeprüfte Retouren, Paletten, Overstock | ✅ | ✅ Deutschland | 🔥🔥🔥 |
+| **Jobalots** | 🇪🇺 EU/UK | Retourenpaletten, Boxen, Einzel-Lose, Overstock großer Händler | ✅ Auktion | ✅ EU | 🔥🔥 |
+| **RetourenDirekt** | 🇩🇪 Deutschland | **unpicked** Amazon-/Shein-Retourenpaletten ohne Inhaltsliste | ✅ kaufen | ✅ 27 EU-Länder | 🔥🔥🔥 |
+| **B-Aftermarket** | 🇪🇸 Spanien | versiegelte Amazon-Retourenpaletten direkt aus EU-Fulfillment | ✅ kaufen | ✅ 27 EU-Länder | 🔥🔥 |
+| **Merkandi** | 🇪🇺 viele EU-Länder | Mystery Pallets, Lost Parcels, Retouren, Restposten aller Art | ✅ kaufen | ✅ viele EU-Angebote | 🔥🔥 |
+| **Restposten.de** | 🇩🇪/EU | ungeprüfte Mix-Paletten, Retouren, Lager-/Restbestände | ✅ kaufen | ✅ viele europa-/weltweit | 🔥🔥 |
+| **Vavato** | 🇧🇪 Belgien | Insolvenzware, Firmenbestände, Schmuck, Werkzeug, Haushalt, Einzelstücke | ✅ Auktion | ✅ bei „Delivery Europe"-Lots | 🔥 |
+| **GovPlanet Europe** | 🇪🇺 | Behörden-/Militärüberschuss: Werkzeug, Kleidung, Technik, Medizin, Fahrzeuge, Teile | ✅ Auktion | 🟡 Parcel/LTL-Lose | 🔥 |
+
+### 🇵🇱 Returnstore.pl — bester neuer Treffer fürs kleine Looten
+
+Verkauft tatsächlich: **Mystery Box – Kundenretouren**, Amazon Mystery Box, Mix-Boxen,
+Elektronik-Boxen, Automotive, Werkzeug/Haushalt, Baby/Spielzeug, komplette Paletten,
+Overstock/Lagerauflösungen.
+
+Beispiel: Mystery Box mit Kundenretouren **500 PLN**, Inhalt wird **vorher nicht
+gezeigt**.
+
+Liefert ausdrücklich nach **Deutschland**, außerdem NL, FR, CZ, SK, LT, LV, IT.
+
+→ Genau das Muster: polnische echte Retouren-Lootbox → online kaufen → nach DE
+schicken lassen.
+
+- https://www.returnstore.pl/en/
+
+### 🇪🇺 Jobalots
+
+Versteigert online: Customer Returns, Overstock, Clearance, Boxen, Paletten, einzelne
+Lots, Werkzeug, Auto, Haushalt, Kleidung, Elektronik, Garten, Spielzeug, Sport.
+
+Ware stammt laut Betreiber direkt von großen europäischen und britischen Händlern.
+Jeder Posten hat normalerweise ein Manifest; Retouren werden **ungeprüft** verkauft.
+Jobalots organisiert Lieferung innerhalb UK und EU bis zum Käufer.
+
+⚠️ Wegen Zoll bevorzugt Ware aus dem **EU-Lagerbestand** nehmen, nicht UK-Ware.
+
+- https://jobalots.com/
+
+### 🇩🇪 RetourenDirekt — „unpicked" ist der Punkt
+
+Kein Auktionshaus: Amazon-Kundenretouren als ganze gemischte Palette, **keine
+Inhaltsliste**, laut Anbieter **nicht vorher nach wertvollen Artikeln durchsucht**.
+
+Eine Palette enthält laut Anbieter ca. **600 Artikel** quer durch Haushalt, Mode,
+Technik usw. Kauf sogar **ohne Account per Guest Checkout**, Lieferung aus Brandenburg
+in **alle 27 EU-Länder**.
+
+⚠️ **B2B.** Mit Gewerbe deutlich realistischer als für Privatkäufer.
+
+- https://retourendirekt.de/
+
+### 🇪🇸 B-Aftermarket
+
+**Versiegelte Amazon-Retourenpaletten aus spanischen Amazon-Fulfillment-Centern.**
+Laut Anbieter: nicht von Zwischenhändlern geöffnet, Palette versiegelt, Manifest
+vorhanden, Amazon ES, Mindestabnahme 1 Palette, Versand in alle 27 EU-Länder.
+
+Inhalt z.B.: Elektronik, Haushalt, Werkzeug, Spielzeug, Sport, Beauty.
+
+⚠️ Nur **B2B mit gültiger VAT/USt-ID**.
+
+- https://b-aftermarket.com/
+
+### 🇪🇺 Merkandi — riesiger EU-Loot-Marktplatz
+
+Kein einzelner Händler, sondern europaweiter Restposten-/Großhandelsmarktplatz.
+Über **600 Angebote allein für Retourenpaletten** aus DE, PL, ES, NL, FR, RO, CZ, HU,
+IT, BG usw.
+
+Vorhanden: Mystery Pallets, Undelivered Packages, Lost Packages, Secret Packs,
+ungeprüfte Returns, Restposten, Lagerauflösungen.
+
+Beispiel-Angebot: verlorene/retournierte Amazon-Pakete, **200–300 Pakete pro Palette**,
+Inhalt ungeprüft und nicht gezählt, internationaler Versand innerhalb Europas.
+
+Besonders nützlich: gezielt nach Angeboten aus **Polen, Rumänien, Tschechien,
+Bulgarien** filtern.
+
+⚠️ Merkandi ist nur der Marktplatz — **einzelnen Händler genau prüfen**.
+
+- https://merkandi.com/wholesale/return-pallets-europe
+- https://merkandi.com/wholesale/mystery-pallets
+
+### 🇩🇪 Restposten.de
+
+Aktuell u.a. **ungeprüfte A/B/C-Mixpaletten** mit Haushalt, Werkzeug, Elektronik,
+Kinderartikeln, Spielzeug, Möbeln, Koffern, Lampen, Staubsaugern.
+Teilweise ab ca. **350 € pro Palette**, Mindestmenge 1 Palette, weltweiter Versand.
+
+Weniger „mysteriöses DHL-Paket", eher: 1 Palette gemischtes Zeug kaufen → durchgehen →
+brauchbare Sachen herausziehen.
+
+- https://www.restposten.de/
+
+### 🇧🇪 Vavato
+
+Online-Auktionshaus, querbeet: Insolvenzen, Firmenauflösungen, Werkzeuge, Fahrzeuge,
+Maschinen, Schmuck, Haushalt, Kunst, Technik, Einzelstücke.
+
+Bestimmte Auktionen haben ausdrücklich **„Delivery Europe"** → Lieferung an die Adresse
+im Account.
+
+⚠️ **Nur Lose mit „Delivery Europe" nehmen.**
+
+- https://www.vavato.com/
+
+### 🇪🇺 GovPlanet Europe — Kategorie Behörden/Militär
+
+Große Online-Auktionen mit Werkzeug, Kleidung, Outdoor-/Field Gear, Consumer
+Electronics, medizinischer Ausstattung, Küchenzeug, Maschinen, Fahrzeugen,
+Ersatzteilen, Containern, Sport, Lagerausstattung, Marine-/Luftfahrtteilen.
+
+Eine einzige Government-Surplus-Auktion hatte über **1.800 Online-Lose**. Es gibt einen
+Filter für Artikel, die per **Parcel oder LTL/Fracht** versendet werden können.
+
+⚠️ Immer **EU-Standort + Versandfähigkeit** prüfen — Lose können in den USA stehen.
+
+- https://eu.ironplanet.com/
+
+### Cherry-Picking-Risiko
+
+„Unpicked" / „sealed at source" ist das Verkaufsargument von RetourenDirekt und
+B-Aftermarket — aber es ist eine **Händlerangabe** und nicht unabhängig überprüft.
+Reddit-Erfahrungen bestätigen weiterhin: Bei normalen Retouren-Zwischenhändlern ist
+**Cherry-Picking** eines der größten Risiken; erfahrene Reseller empfehlen direkte
+Quellen oder sauber dokumentierte Lots.
+
+→ Vor einem größeren Kauf vertraglich bzw. anhand der Lieferkette genauer prüfen.
+
+---
+
+## Teil 3 — Details je Plattform (EU-Watchlist)
 
 ### 🇨🇿 Aukro.cz — Top-Kandidat
 
@@ -427,6 +565,17 @@ Bereich, in dem Fehlbewertungen überhaupt entstehen können.
 14. Restlos
 15. LP Foto
 
+### Ergänzte Loot-/Retouren-Quellen (parallel laufen lassen)
+
+1. Returnstore.pl — kleines echtes Looten, direkter DE-Versand
+2. Merkandi — gezielt CZ/PL/RO/BG filtern
+3. RetourenDirekt — unpicked Amazon-/Shein-Paletten (B2B)
+4. B-Aftermarket — versiegelte Amazon-ES-Paletten (B2B, USt-ID)
+5. Jobalots — Retourenauktionen, EU-Lager bevorzugen
+6. Restposten.de — ungeprüfte Mixpaletten
+7. Vavato — nur „Delivery Europe"-Lose
+8. GovPlanet Europe — Standortfilter EU
+
 ---
 
 ## Confidence & Prüfweg
@@ -434,6 +583,9 @@ Bereich, in dem Fehlbewertungen überhaupt entstehen können.
 - **H** — Plattformen, Online-Bieten und die angegebenen Versandregeln.
 - **M** — These, dass CZ/PL/GR/BG systematisch günstiger sind. Plausibel bei lokalen/
   ungeprüften Lots, aber nicht durch einen ausreichend großen Preisvergleich belegt.
+- **H** — Existenz, Sortiment und Versandmöglichkeiten der Quellen aus Teil 2b.
+- **M** — Aussagen wie „unpicked" / „sealed at source", weil reine Händlerangabe, nicht
+  unabhängig überprüfbar.
 
 **Prüfweg:** Abgeschlossene Sony/Canon/Fuji-Lose aus **DE vs. CZ vs. PL vs. GR/BG**
 ziehen und tatsächliche Endpreise gegen deutsche Gebrauchtpreise rechnen.
