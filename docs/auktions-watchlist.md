@@ -1650,6 +1650,115 @@ King Colis und PackedBoxs.
 
 ---
 
+## Teil 16 — Arbeitsliste A · B · D (Privatmarktplätze gestrichen)
+
+Gültige Fassung. Ersetzt Teil 12, 14 und 15 als Arbeitsliste.
+**Liste C (Marktplätze mit Privatverkäufern) ist gestrichen.**
+
+Versand: ✅ plattformweit · ◐ je Los, filterbar · 🇩🇪 deutsch, Abholung akzeptiert
+
+---
+
+### Liste A — Primärquellen: Behörde, Gericht, Fundbüro, Insolvenzverwalter, Post
+
+Niemand hat vorher aussortiert, weil der Verkäufer fremdes Vermögen verwertet.
+
+| Shop | Link | Bemerkung |
+|---|---|---|
+| **Weidler / Deutsche Post** | https://www.auktionshausweidler.de/ | Unanbringliche Postsendungen, ganze Gitterwagen. Inhaltlich die beste Quelle überhaupt — niemand hat reingesehen. ◐ Versand nur auf ausdrücklichen Wunsch über DieVersandExperten.de, auf Kosten und Gefahr des Käufers. ⚠️ **36,85 % Aufgeld** inkl. Steuer — höchster Satz der ganzen Liste |
+| **Zoll-Auktion** | https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n0=search | Bund, Länder, Gemeinden. Über 1.500 dauerhaft laufende Auktionen. Konvolute, Mischposten, Fundgut, Fundräder Hamburg. ◐ Kleinteile teils 8 € DHL, Maschinen und Fahrzeuge ausdrücklich ohne Versand. Mindestgebot bei Münzkonvoluten teils nur nach Materialwert — strukturelle Unterbewertung |
+| **Justiz-Auktion** | https://www.justiz-auktion.de/ | Gerichtsvollzieher, Staatsanwaltschaften. Uhren- und Schmuckkonvolute mit Standardformel „Betriebstauglichkeit nicht geprüft". Kategorie **Räumungsgut** (Kubikmeterware ohne Einzelaufstellung) ist die größte Blackbox, aber nur Abholung, Besichtigung ausgeschlossen, Paletten 22,50 € netto extra. ⚠️ Bei Apple-/Handy-Konvoluten sind iCloud-Sperren nicht geprüft |
+| **Fundsachen-Auktion.de** | https://www.fundsachen-auktion.de/ | Flughäfen, Verkehrsbetriebe, Fundbüros. Eigene Kategorie **„Karton/Koffer mit diversem Inhalt"** und **Ü-Boxen** nur nach Gewicht — laut AGB ist der Inhalt auch dem Versteigerer unbekannt. ✅ Versand Standard ca. 13,50 €. ⚠️ 18 % Aufgeld + 19 % USt. aufs Aufgeld: eine 40-€-Box kostet real ~62 € |
+| **Sonderauktionen.net** | https://www.sonderauktionen.net/ | Kommunale Fundbüros, alle Kategorien. ◐ je Auktion. Fundräder ausdrücklich nicht auf Verkehrssicherheit geprüft und Abholung bei der Behörde |
+| **RESTLOS** | https://auktionen.restlos.com/ | Insolvenzverwalter und Betriebsauflösungen. Mischposten-Konvolute, Elektronikschüttgut, Werkzeug. Verwalter verkauft nach Masse, nicht nach Einzelwert — genau dort entsteht die Unterbewertung. 🇩🇪 **überwiegend nur Abholung** |
+| **VEBEG** | https://www.vebeg.de/ | Bund, Bundeswehr, Behörden. Sehr breites Sortiment, gemischte Behördenlose. ◐ je Los, Verkauf „wie besichtigt". ⚠️ **Nur Unternehmer nach §14 BGB**, Privatpersonen dürfen seit 2022 nicht bieten |
+| **Dorotheum** | https://www.dorotheum.com/ | Österreich, u.a. behördliche und gerichtliche Verwertungen. ✅ organisiert Versand per Post oder Kurier; Warnung vor Zusatzkosten nennt Polen und Bulgarien, Deutschland ausdrücklich nicht. ⚠️ Sehr etabliert = sehr professionelle Konkurrenz. Waffen nicht an Endkunden |
+| **Interencheres** | https://www.interencheres.com/biens-equipement/marchandises-neuves-et-stocks/ventes | Frankreich, 530+ Auktionshäuser im Auftrag von Handelsgerichten und mandataires liquidateurs. Kundenretouren, SAV-Retouren, Lagerbestände, „lot divers – non testé". Sprachbarriere als Zusatzvorteil. ◐ **nur mit Filter „Livraison possible"** — die Gerichtsverkäufe selbst sind Abholung in Frankreich |
+| **Troostwijk** | https://www.troostwijkauctions.com/en/auctions | Niederlande, Insolvenzverwalter und Kuratoren. ◐ **nur „Bezorgveiling" / Delivery auction**, und dort muss Deutschland in der Lieferregion der Auktion liegen. Für Pickup-Auktionen bietet Troostwijk **keinerlei** Transportdienst. ⚠️ Gebote sind verbindlich, Storno teuer |
+| **Vavato** | https://www.vavato.com/en/auctions | Belgien, Insolvenz und Firmeninventar. ◐ nur „Free delivery"-Auktionen, deutsche Lieferadresse nicht belegt. Bietet selbst keinen Transportdienst |
+| **Auctim** | https://www.auctim.com/en/auctions | Belgien, Liquidation und zeitweise Post-Restanten. ◐ bietet **selbst keinen Versand**; Gratis-Lieferung nur kampagnenweise, die gefundenen Aktionen liefern nach BE und NL — **Deutschland unbelegt**. Vor dem Bieten Auktionsdetails prüfen |
+
+**Raus:** Domeinen Roerende Zaken NL (Abholpflicht 8 Tage) · FinShop BE (Webshop nur
+Belgien, Auktion nur Abholung) · staatliche Plattformen in ES, SE, FI, PL, LT, IT, PT
+(Versand nirgends belegt)
+
+---
+
+### Liste B — Händler & Retouren: mindestens eine Sortierstufe, dafür Preis
+
+⚠️ „unpicked" und „sealed at source" sind unbelegte Anbieterangaben. Diese Liste
+rechtfertigt sich über die Kalkulation, nicht über den Inhalt.
+
+| Shop | Link | Bemerkung |
+|---|---|---|
+| **Jobalots** | https://jobalots.com/ | Retourenauktionen von großen europäischen Händlern, ungeprüft verkauft, meist mit Manifest. ✅ **wörtlich „Delivery available to EU member states, including Germany"**, Versand per Palletways ab EU-Lager Polen. ⚠️ Lager auch in UK — **nur EU-Lagerware nehmen**, sonst Zoll. MwSt. auf Versand erst im Checkout |
+| **Returnstore.pl** | https://www.returnstore.pl/en/ | Polen. Mystery Boxes Kundenretouren, Mixboxen, Elektronik, Paletten, Overstock. Inhalt wird vorher nicht gezeigt. ✅ **Deutschland ausdrücklich in der Länderliste**. Kosten im Bestellprozess, bei Paletten individuell |
+| **RetourenDirekt** | https://retourendirekt.de/ | Deutschland. Amazon-/Shein-Retourenpaletten, ca. 600 Artikel pro Palette, ohne Inhaltsliste. ✅ Versand Inland kostenlos, EU für Geschäftskunden. ⚠️ B2B-Großhandel; „unpicked" ist Händlerangabe, vor größerem Kauf vertraglich prüfen |
+| **B-Aftermarket** | https://b-aftermarket.com/ | Spanien. Versiegelte Amazon-ES-Retourenpaletten mit Manifest, laut Anbieter nicht von Zwischenhändlern geöffnet. ◐ „ships from Spain across the EU", Deutschland nie wörtlich. 2–5 Werktage Westeuropa. ⚠️ **B2B-only, USt-ID nötig** |
+| **Stocklear** | https://joblot.stocklear.eu/ | Frankreich. Retouren- und Überbestandspaletten, Markenware. ◐ „assure le transport dans toute l'Europe", Transportangebot im eingeloggten Konto, Versand ab Lager Méru. Manifest reduziert Mystery und Risiko gleichzeitig. B2B |
+| **Merkandi** | https://merkandi.com/wholesale/return-pallets-europe | Marktplatz, kein Händler. Über 600 Retourenpaletten-Angebote, Mystery Pallets, Lost Parcels (200–300 Pakete pro Palette). ◐ **Versand je Anbieter, kein Plattformversand** — Käufer kontaktiert den Lieferanten direkt. Lagerortdaten erst nach kostenpflichtigem Abo. ⚠️ Einzelnen Händler prüfen, nicht die Plattform |
+| **Restposten.de** | https://www.restposten.de/ | Deutschland. Mixpaletten, Retouren, Restbestände, ab ca. 350 € pro Palette. ◐ je Anbieter, Vertragsabwicklung außerhalb der Plattform. ⚠️ **B2B-Pflicht belegt** — nur Firmen und Gewerbetreibende, Privatpersonen bekommen keinen Vollzugang |
+| **B-Stock Amazon EU** | https://bstock.com/amazoneu/ | Echte Amazon-Europe-Liquidationsbestände. ◐ Versand nicht nachverifiziert. ⚠️ **USt-ID nötig**. Forenerfahrung: erste Palette meist zu teuer, Manifestanalyse ist der eigentliche Vorteil. EU-only-Filter strittig (US-Plattform, EU-Lager) |
+| **GovPlanet Europe** | https://eu.ironplanet.com/ | Behörden- und Militärsurplus: Werkzeug, Kleidung, Technik, Medizin, Fahrzeuge, Teile. Eine Auktion hatte über 1.800 Lose. ◐ Filter für Parcel/LTL vorhanden. ⚠️ **Standortfilter EU setzen** — Lose können in den USA stehen |
+| **King Colis** | https://www.king-colis.com/en | Frankreich, unzustellbare Pakete nach Gewicht. ❓ **Lieferländer nirgends auffindbar, Deutschland unbelegt.** Presse-Selbsttests zeigen überwiegend banale Inhalte. Vor dem Kauf Versandseite selbst prüfen |
+| **PackedBoxs** | https://packedboxs.com/ | Niederlande, Lost-/Mystery-Pakete. ❓ nur Marketingzeile „shipping across Europe", Deutschland nie wörtlich. Loot-Faktor hoch, Informationsvorteil null |
+
+---
+
+### Liste D — Versand plattformweit, jedes Angebot versandfähig
+
+Teilmenge aus A und B. Für Käufe ohne Logistikaufwand.
+
+| Shop | Liste | Link | Bemerkung |
+|---|---|---|---|
+| **Fundsachen-Auktion.de** | A | https://www.fundsachen-auktion.de/ | Beste Kombination aus Blindware und einfachem Versand. 18 % + USt. aufs Aufgeld einrechnen |
+| **Dorotheum** | A | https://www.dorotheum.com/ | Organisiert Versand für alles. Dafür professionellste Konkurrenz |
+| **Jobalots** | B | https://jobalots.com/ | Einzige Plattform mit wörtlicher Deutschland-Zusage. Nur EU-Lagerware |
+| **Returnstore.pl** | B | https://www.returnstore.pl/en/ | Deutschland in der Länderliste, Direktkauf ohne Auktion |
+| **RetourenDirekt** | B | https://retourendirekt.de/ | Versand Inland kostenlos. B2B |
+
+⚠️ **Zielkonflikt:** D ist die bequemste Auswahl und systematisch die mit dem kleinsten
+Vorteil — wer Versand garantiert, senkt die Hürde für alle Bieter. Siehe Teil 14.
+
+---
+
+### Gestrichen: Liste C
+
+Marktplätze mit Privatverkäufern. Begründung: Privatverkäufer verkaufen das Gute einzeln
+und den Rest als Posten — im Ergebnis ähnlich wie Cherry-Picking, nur über einen anderen
+Mechanismus.
+
+Aukro.cz · Allegro.pl · Vendora GR/BG · Osta.ee · Aukcije.hr · Huuto.net ·
+Todocoleccion · Catawiki · Cypria Auctions · Castle Auctions
+
+**Grenzfälle, mit C gestrichen, obwohl es Auktionshäuser sind:** Auctionet · Darabanth ·
+LP Foto · Leitz Photographica. Falls die Entscheidung revidiert wird, gehören diese vier
+eher zu A oder D als zu C.
+
+Dokumentation aller gestrichenen Plattformen bleibt in Teil 2, 3, 7, 8 und 15.
+
+---
+
+### Reihenfolge
+
+**Täglich:** Weidler → Zoll-Auktion → Justiz-Auktion → Fundsachen-Auktion →
+Sonderauktionen
+
+**Wöchentlich:** RESTLOS → Interencheres *(Versandfilter)* → Troostwijk
+*(Bezorgveiling)* → Dorotheum → VEBEG
+
+**Wenn der Preis stimmt:** Jobalots → Returnstore → RetourenDirekt → B-Aftermarket →
+Stocklear
+
+**Vor dem ersten Kauf prüfen:** Vavato · Auctim · Merkandi · B-Stock · GovPlanet ·
+King Colis · PackedBoxs
+
+Confidence: **H** für Links, Gebührensätze, B2B-Pflichten und die Versandeinstufungen
+aus Teil 13. **M** für ◐-Plattformen ohne wörtlichen Deutschland-Beleg. **N** für
+King Colis und PackedBoxs.
+
+---
+
 ## Confidence & Prüfweg
 
 - **H** — Plattformen, Online-Bieten und die angegebenen Versandregeln.
