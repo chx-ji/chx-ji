@@ -1233,7 +1233,7 @@ Versandfilter gescheitert, nicht an der Warenqualität.
 
 | Plattform | Auftraggeber | Versand | Zugang | Link |
 |---|---|---|---|---|
-| **Weidler / Deutsche Post** | Deutsche Post — unanbringliche Sendungen, ganze Gitterwagen | ❌ nur Abholung Wuppertal | Privat | https://www.auktionshausweidler.de/ |
+| **Weidler / Deutsche Post** | Deutsche Post — unanbringliche Sendungen, ganze Gitterwagen | ◐ **Versand auf Wunsch** über DieVersandExperten.de, siehe Teil 13. ⚠️ Aufgeld 36,85 % | Privat | https://www.auktionshausweidler.de/ |
 | **Zoll-Auktion** | Bund, Länder, Gemeinden | ◐ Kleinteile teils 8 € DHL | Privat | https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n0=search |
 | **Justiz-Auktion** | Gerichtsvollzieher, Staatsanwaltschaften | ◐ je Los; Räumungsgut nur Abholung | Privat | https://www.justiz-auktion.de/ |
 | **Fundsachen-Auktion.de** | Flughäfen, Verkehrsbetriebe, Fundbüros | ✅ ca. 13,50 € | Privat | https://www.fundsachen-auktion.de/ |
@@ -1249,7 +1249,7 @@ war schon immer der inhaltlich beste Treffer, nur logistisch gesperrt.
 
 | Plattform | Land | Auftraggeber | Versand | Status |
 |---|---|---|---|---|
-| **Auctim** | 🇧🇪 BE | Liquidation, Insolvenz, Post-Restanten | ✅ Auktionsgattung mit **kostenlosem versichertem EU-Versand** | **DRIN** |
+| **Auctim** | 🇧🇪 BE | Liquidation, Insolvenz, Post-Restanten | ◐ **siehe Korrektur in Teil 13** — DE als Lieferland unbelegt | **bedingt** |
 | **Troostwijk** | 🇳🇱 NL | Insolvenzverwalter, Kuratoren | ◐ **nur „Bezorgveiling" / Delivery auction** | **teilweise drin** |
 | **Vavato** | 🇧🇪 BE | Insolvenz, Firmeninventar | ◐ nur Lose mit „Delivery Europe" | **teilweise drin** |
 | **Dorotheum** | 🇦🇹 AT | u.a. behördliche/gerichtliche Verwertung | ✅/◐ je Objekt | **drin** |
@@ -1324,6 +1324,111 @@ Confidence: **H** für die Zuordnung Deutschland/Ausland und für die Versandbel
 Auctim, Troostwijk-Bezorgveiling, DRZ und FinShop. **M** für die Versandangaben der
 Gruppe-B-Plattformen — die stammen überwiegend aus Anbieterselbstauskunft und werden
 gerade gegengeprüft.
+
+---
+
+## Teil 13 — Versandverifikation: zwei Korrekturen
+
+Gezielte Gegenprüfung der Versandangaben von 14 Plattformen gegen AGB-, FAQ- und
+Helpcenter-Seiten. Ergebnis: zwei frühere Einstufungen in dieser Datei waren falsch.
+
+### ⚠️ Korrektur 1 — Auctim: kein belegter Versand nach Deutschland
+
+**Teil 10 und Teil 12 führen Auctim als „Auktionsgattung mit kostenlosem versichertem
+EU-Versand" und als einzige ausländische Primärquelle mit Versand. Das ist so nicht
+haltbar.**
+
+Was die Prüfung ergab:
+- Auctims eigener Support-Artikel („Can I have my lot delivered? Does Auctim offer
+  delivery services?") sagt, Auctim bietet **selbst keinen Versand** an. Man beauftragt
+  eine Transportfirma.
+- Kostenlose Lieferung gibt es **nur kampagnenweise** („In some auctions, lots are
+  delivered free of charge; check the auction details").
+- Die gefundenen Gratis-Lieferungs-Auktionen nennen als Lieferländer **Belgien und
+  Niederlande**. Deutschland wurde in **keinem** Treffer als Lieferland genannt.
+- Drittanbieter KoerierDirect fährt „from all Auctim Auctions across Europe" — also
+  möglich, aber kostenpflichtig und selbst zu organisieren.
+
+**Neue Einstufung: ◐ nur bestimmte Lose, Deutschland unbelegt.** Nicht mehr die
+Ausnahme, die die Regel „Behörde + Versand = nur Deutschland" durchbricht.
+Confidence M für die Kampagnenlogik, **N** für Deutschland als Lieferland.
+
+### ✅ Korrektur 2 — Weidler versendet doch, auf Wunsch
+
+**Teil 1, 9 und 12 führen Weidler als „❌ nur Abholung Wuppertal". Das ist zu streng.**
+
+Aus den AGB-/Bieterseiten zu den Post-Auktionen (im Auftrag Deutsche Post AG und
+DHL Hub Leipzig):
+- „**Versand wird nur auf ausdrücklichen Wunsch des Käufers angeboten, in allen Fällen
+  auf Kosten und Gefahr des Käufers**"
+- „Die komplette Versandabwicklung erfolgt **ausschließlich über den Versandpartner
+  DieVersandExperten.de**", dort individuelles Angebot
+- Sperrige/schwere Objekte (Klaviere, Tresore) nur per Spedition
+- Abholung nur nach Zahlungseingang und vorheriger Absprache
+
+**Neue Einstufung: ◐ Versand auf Wunsch über Drittanbieter.** Damit erfüllt Weidler den
+Versandfilter — anders als bisher dokumentiert.
+
+⚠️ **Aber:** Aufgeld bei den Post-Auktionen **36,85 % inkl. Steuer**. Das ist der höchste
+Satz aller geprüften Plattformen und mehr als doppelt so hoch wie bei
+Fundsachen-Auktion. Ein 100-€-Zuschlag kostet ~137 € plus Versandangebot.
+Confidence M-H.
+
+### Verifikationstabelle
+
+| Plattform | Versand nach DE | Beleg | Zugang | Conf. |
+|---|---|---|---|---|
+| **Jobalots** 🇪🇺 | **✅ JA, wörtlich** | „Delivery is available to addresses in EU member states, **including Germany**"; EU-Bestellungen über eu.jobalots.com, Lager **UK und Polen**, Versand per Palletways; Palettenrabatt für alle EU-Länder außer Polen | kein B2B-Zwang belegt | **M-H** |
+| **Returnstore.pl** 🇵🇱 | **✅ JA, wörtlich** | „delivers to Poland, the Netherlands, **Germany**, France, Czechia, Slovakia, Lithuania, Latvia and Italy"; Kosten im Bestellprozess, bei Paletten individuell | Fokus Wiederverkäufer, B2B-Pflicht nicht belegt | **M** |
+| **Dorotheum** 🇦🇹 | **✅ JA** | „kann Lieferung per Post oder Kurier **in Ihrem Auftrag organisieren**"; Porto/Verpackung nicht im Kaufpreis. Zusatzkosten-Warnung nennt Polen und Bulgarien — **Deutschland ausdrücklich nicht** | privat + gewerblich | **M-H** |
+| **RetourenDirekt** 🇩🇪 | **✅ Inland belegt** | Beispielbox 35 Stück, 166,60 € inkl. MwSt., „**kostenloser Versand in Deutschland**", Optionen für EU-Geschäftskunden | als B2B-Großhandel beworben, Gewerbenachweis-Pflicht **unbekannt** | **M** |
+| **Weidler** 🇩🇪 | **◐ auf Wunsch** | siehe Korrektur 2. Aufgeld Post-Auktionen **36,85 %** | privat + gewerblich | **M-H** |
+| **B-Aftermarket** 🇪🇸 | **◐ „across the EU"** | „**B2B-only** … ships from Spain across the EU"; Kosten im Checkout nach Volumen/Gewicht/Ziel; 2–5 Werktage Westeuropa. **Deutschland nie wörtlich** | **B2B-Pflicht belegt** | **M** |
+| **Stocklear** 🇫🇷 | **◐ „toute l'Europe"** | „assure le transport dans toute l'Europe"; Transportangebot im eingeloggten Konto, Versand ab Lager Méru. **Deutschland nie wörtlich** | B2B-Marktplatz | **M** |
+| **Troostwijk** 🇳🇱 | **◐ regionsgebunden** | Helpcenter Bezorgveiling: Checkout verlangt „een **adres binnen de regio** in de veilingdetails", Abholung bei Bezorgveilingen **nicht möglich**. Eine DE-Adresse geht nur, wenn Deutschland in den Auktionsdetails liegt | gemischt | **M** |
+| **Vavato** 🇧🇪 | **◐ Auktionstyp** | Terms: „bietet **selbst keinen Transportdienst**", Vertrag direkt mit Transporteur. Helpcenter „Free delivery auctions": Versand 2–3 Wochen nach Auktionsende an die MyVavato-Adresse. **DE-Adresse nicht belegt** | gemischt | M / **N für DE** |
+| **Auctim** 🇧🇪 | **◐ DE unbelegt** | siehe Korrektur 1 | nicht geklärt | M / **N für DE** |
+| **Merkandi** 🇵🇱 | **◐ je Anbieter** | Käufer „kontaktiert den Lieferanten direkt", Versand-/Abholort im Verkäuferprofil, Lagerortdaten erst nach kostenpflichtigem Abo. **Plattformweiter Versand existiert nicht** | B2B-Abo | **M** |
+| **Restposten.de** 🇩🇪 | **◐ je Anbieter** | Vollmitglieder bekommen Lieferantenkontakt, **Vertragsabwicklung außerhalb der Plattform**. „nur Firmen und Gewerbetreibende dürfen handeln", Gewerbenachweis für Verified Member, **Privatpersonen ohne Vollzugang** | **B2B-Pflicht belegt (H)** | M-H |
+| **King Colis** 🇫🇷 | **❓ UNBEKANNT** | Nur Existenz einer CGV-Seite belegt. **Kein Treffer nennt Lieferländer, Deutschland oder Versandkosten** — auch nicht bei gezielter französischer Suche | nicht geklärt | — |
+| **PackedBoxs** 🇳🇱 | **❓ UNBEKANNT** | Nur Marketingzeile „fast shipping across Europe". **Deutschland nirgends wörtlich**, keine Kosten, keine Länderliste | Endkunden | **N** |
+
+### Ungelöster Widerspruch bei Troostwijk
+
+Die **Primärquelle** (Troostwijk-Helpcenter) sagt: Lieferadresse muss in der in den
+Auktionsdetails genannten Region liegen.
+Eine **Drittquelle** (Aggregator) behauptet pauschal „Verzending Duitsland: Ja,
+Verzendkosten afhankelijk per veiling".
+
+Das steht im Spannungsverhältnis. **Im Zweifel gilt die Primärquelle:** vor dem Bieten
+in den Auktionsdetails prüfen, ob Deutschland in der Lieferregion liegt. Für
+Nicht-Bezorgveilingen bleibt es bei Drittanbietern — PickThisUp deckt NL, BE und
+**Teile** Deutschlands ab.
+
+### Was sich in der Rangfolge ändert
+
+**Ausland mit belegtem Versand nach Deutschland — neue Reihenfolge:**
+
+1. **Jobalots** — einzige Plattform mit wörtlichem „including Germany", EU-Lager in
+   Polen, damit auch ohne Zollproblem. ⚠️ Nur EU-Lagerware nehmen, nicht UK.
+2. **Returnstore.pl** — Deutschland in der Länderliste genannt
+3. **Dorotheum** — organisiert Versand, Deutschland nicht als Problemfall gelistet
+4. *danach* B-Aftermarket und Stocklear (EU-weit, DE nicht wörtlich)
+5. *bedingt* Troostwijk (Region prüfen), Vavato, Auctim
+6. *unbekannt* King Colis, PackedBoxs — nicht als versandfähig einplanen, bis geprüft
+
+**Bemerkenswert:** Die drei bestbelegten ausländischen Optionen sind allesamt
+**Gruppe B** — Händler, keine Behörden. Das bestätigt die Regel aus Teil 11 eher, als
+dass es sie widerlegt: Versand ist eine Händlerdienstleistung.
+
+### Methodische Einschränkung
+
+Alle Belege stammen aus Suchergebnis-Snippets, nicht aus im Wortlaut geöffneten Seiten
+(Fetch blockiert). „Deutschland nie wörtlich" heißt: in den Snippets nicht gefunden —
+nicht, dass es dort nicht steht. Das drückt mehrere Zeilen von H auf M.
+
+**Prüfweg:** Vor dem ersten Kauf bei einer ◐- oder ❓-Plattform deren Versandseite direkt
+öffnen und Deutschland in der Länderliste suchen.
 
 ---
 
