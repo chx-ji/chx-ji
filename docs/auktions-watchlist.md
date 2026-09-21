@@ -1445,6 +1445,80 @@ nicht, dass es dort nicht steht. Das drückt mehrere Zeilen von H auf M.
 
 ---
 
+## Teil 14 — Liste D: Auktionen mit vollständigem Versand
+
+Quer zu A, B und C. Aufnahmekriterium ist **nicht** die Quellenart, sondern:
+**Versand gilt plattformweit, nicht nur bei einzelnen Losen.**
+
+Damit fällt alles heraus, wo „je Los" oder „auf Wunsch" steht — auch wenn die Ware
+inhaltlich besser wäre.
+
+### Die Liste
+
+| Plattform | Land | Gruppe | Versandregel | Käuferkosten | Link |
+|---|---|---|---|---|---|
+| **Fundsachen-Auktion.de** | 🇩🇪 DE | **A** | ✅ Versand Standard, ca. 13,50 € Inland | ⚠️ 18 % Aufgeld + 19 % USt. aufs Aufgeld | https://www.fundsachen-auktion.de/ |
+| **Dorotheum** | 🇦🇹 AT | **A** | ✅ organisiert Post/Kurier für alles; DE nicht als Problemland gelistet | klassisches Aufgeld; Porto nicht im Preis. ⚠️ Waffen nicht an Endkunden | https://www.dorotheum.com/ |
+| **Jobalots** | 🇪🇺 EU/PL | **B** | ✅ „Delivery available to EU member states, **including Germany**", Palletways ab EU-Lager Polen | MwSt. auf Versand erst im Checkout. ⚠️ nur EU-Lagerware, nicht UK | https://jobalots.com/ |
+| **Catawiki** | 🇳🇱 NL | C | ✅ **jeder Verkäufer muss EU-weit versenden können** — härteste Versandgarantie der Liste | 9 % + 3 € Buyer Protection zzgl. Versand | https://www.catawiki.com/ |
+| **Auctionet** | 🇸🇪 SE/EU | C | ✅ Paketservice an jede EU-Adresse für kompatible Lose, Kosten am Artikel sichtbar | Aufgeld + Transportkosten | https://auctionet.com/de |
+| **Darabanth** | 🇭🇺 HU | C | ✅ international per Post, DPD, EMS, UPS/FedEx | ⚠️ **25 % Käuferprovision** — höchste regulär ausgewiesene der Liste | https://www.darabanth.com/en/ |
+| **LP Foto** | 🇸🇪 SE | C | ✅ weltweit per UPS/DHL | Auktionsaufgeld | https://www.lpfoto.se/en-US/auctions |
+| **Leitz Photographica** | 🇦🇹 AT | C | ✅ weltweit | Auktionsaufgeld | https://www.leitz-auction.com/ |
+
+### Nicht in D, obwohl inhaltlich stärker
+
+| Plattform | Warum nicht |
+|---|---|
+| Zoll-Auktion | Versand nur bei Kleinteilen; Maschinen/Fahrzeuge ausdrücklich nicht |
+| Justiz-Auktion | je Los; Räumungsgut nur Abholung |
+| Weidler / Dt. Post | Versand nur **auf ausdrücklichen Wunsch** über Drittpartner |
+| Sonderauktionen | je Auktion |
+| RESTLOS | überwiegend Abholung |
+| VEBEG | je Los |
+| Troostwijk | nur „Bezorgveiling", und dort regionsgebunden |
+| Vavato · Auctim | nur einzelne Aktionsauktionen |
+| Aukro · Allegro · Vendora · Osta · Aukcije | Versand je Angebot, verkäuferabhängig |
+| King Colis · PackedBoxs | Lieferländer nicht belegt |
+
+### ⚠️ Der eingebaute Zielkonflikt
+
+**D ist die bequemste Liste — und systematisch die mit dem geringsten Vorteil.**
+
+Das ist kein Zufall. Eine Plattform, die Versand plattformweit garantiert, senkt damit
+die Teilnahmehürde für **alle** Bieter in Europa. Genau die Plattformen, bei denen du
+ohne Logistikaufwand kaufen kannst, haben deshalb die meiste Konkurrenz:
+
+- **Catawiki** hat die härteste Versandgarantie **und** den geringsten
+  Informationsvorteil der gesamten Recherche
+- **Dorotheum** ist sehr seriös **und** hat sehr professionelle Mitbieter
+- **Leitz** und **LP Foto** versenden weltweit **und** haben die fachkundigsten Käufer
+
+Umgekehrt sind die Quellen mit dem größten Vorteil — Weidler, Zoll-Auktion,
+Räumungsgut bei Justiz-Auktion — genau die mit dem sperrigsten Versand. **Die Hürde
+ist der Vorteil.**
+
+### Wie D sinnvoll zu benutzen ist
+
+Nicht als Ersatz für A, sondern als **zweites Gleis**:
+
+| Situation | Liste |
+|---|---|
+| Du hast Zeit und kannst abholen oder Versand organisieren | **A** — dort ist das Geld |
+| Du willst ohne Logistikaufwand kaufen | **D** — dort ist die Bequemlichkeit |
+| Du rechnest mit spitzem Stift und der Preis stimmt | **B** |
+
+In D lohnt sich die Suche nur bei **schlecht bezeichneten Einzelstücken**, nicht bei
+Konvoluten — Konvolute werden dort von Profis mitgeboten. Bei Darabanth zusätzlich die
+25 % vor jedem Gebot einrechnen.
+
+Confidence: **H** für die plattformweite Versandregel bei Catawiki, Auctionet, LP Foto,
+Leitz und Darabanth. **M-H** für Dorotheum und Jobalots. **H** für die genannten
+Gebührensätze. Die Aussage über den Zielkonflikt ist eine **Schlussfolgerung aus der
+Marktstruktur**, kein gemessener Befund — Confidence M.
+
+---
+
 ## Confidence & Prüfweg
 
 - **H** — Plattformen, Online-Bieten und die angegebenen Versandregeln.
