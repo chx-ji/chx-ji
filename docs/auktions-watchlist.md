@@ -1200,6 +1200,133 @@ nach „verzending / livraison / envío / wysyłka / spedizione" suchen.
 
 ---
 
+## Teil 12 — Finale Arbeitsliste nach neuer Filterregel
+
+Diese Liste ersetzt die Reihenfolgen aus Teil 8 und 9 als **operative Arbeitsliste**.
+Die früheren Teile bleiben als Begründung und Nachweis stehen.
+
+### Die Regel
+
+| Kriterium | Entscheidung |
+|---|---|
+| Plattform in **Deutschland** | **Abholung ist erlaubt.** Bleibt drin |
+| Plattform im **Ausland** | **nur mit Versand nach Deutschland.** Ohne Versand raus |
+| **Gruppe A** (Behörde, Gericht, Fundbüro, Insolvenzverwalter, Post) | drin, nach obiger Regel |
+| **Gruppe B** (Händler, Retouren-Zwischenhandel) | drin, nach derselben Regel |
+| **Gruppe C** (Marktplätze, Privatverkäufer) | **komplett raus** |
+
+**Bewusster Trade-off:** Mit Gruppe C entfällt der Sprachbarriere-Hebel aus Teil 5 —
+also Aukro, Allegro, Vendora, Osta, Aukcije und die übrigen lokalen Märkte. Die
+Recherche hatte diesen Hebel als stärksten Edge eingestuft. Die Entscheidung
+priorisiert stattdessen „nicht vorsortiert" über „schlecht beschrieben". Das ist
+konsistent, aber es ist ein Verzicht, kein Nebeneffekt.
+
+**Zweite Folge:** Weil Abholung in Deutschland jetzt zulässig ist, kommen **Weidler /
+Deutsche Post** und **RESTLOS** zurück in die Liste — beide waren vorher nur am
+Versandfilter gescheitert, nicht an der Warenqualität.
+
+---
+
+### Liste A — Primärquellen (nicht vorsortiert)
+
+#### A1 · Deutschland (Abholung erlaubt)
+
+| Plattform | Auftraggeber | Versand | Zugang | Link |
+|---|---|---|---|---|
+| **Weidler / Deutsche Post** | Deutsche Post — unanbringliche Sendungen, ganze Gitterwagen | ❌ nur Abholung Wuppertal | Privat | https://www.auktionshausweidler.de/ |
+| **Zoll-Auktion** | Bund, Länder, Gemeinden | ◐ Kleinteile teils 8 € DHL | Privat | https://www.zoll-auktion.de/auktion/auktionsuebersicht.php?n0=search |
+| **Justiz-Auktion** | Gerichtsvollzieher, Staatsanwaltschaften | ◐ je Los; Räumungsgut nur Abholung | Privat | https://www.justiz-auktion.de/ |
+| **Fundsachen-Auktion.de** | Flughäfen, Verkehrsbetriebe, Fundbüros | ✅ ca. 13,50 € | Privat | https://www.fundsachen-auktion.de/ |
+| **Sonderauktionen.net** | kommunale Fundbüros | ◐ je Auktion | Privat | https://www.sonderauktionen.net/ |
+| **RESTLOS** | Insolvenzverwalter, Betriebsauflösungen | ❌ überwiegend Abholung | Privat/Firma | https://auktionen.restlos.com/ |
+| **VEBEG** | Bund, Bundeswehr, Behörden | ◐ je Los | **B2B** §14 BGB | https://www.vebeg.de/ |
+
+**Neu bewertet:** Weidler steht jetzt an erster Stelle. Unanbringliche Postsendungen
+sind die einzige Warenart, bei der garantiert niemand vorher hineingesehen hat — das
+war schon immer der inhaltlich beste Treffer, nur logistisch gesperrt.
+
+#### A2 · Ausland (nur mit Versand)
+
+| Plattform | Land | Auftraggeber | Versand | Status |
+|---|---|---|---|---|
+| **Auctim** | 🇧🇪 BE | Liquidation, Insolvenz, Post-Restanten | ✅ Auktionsgattung mit **kostenlosem versichertem EU-Versand** | **DRIN** |
+| **Troostwijk** | 🇳🇱 NL | Insolvenzverwalter, Kuratoren | ◐ **nur „Bezorgveiling" / Delivery auction** | **teilweise drin** |
+| **Vavato** | 🇧🇪 BE | Insolvenz, Firmeninventar | ◐ nur Lose mit „Delivery Europe" | **teilweise drin** |
+| **Dorotheum** | 🇦🇹 AT | u.a. behördliche/gerichtliche Verwertung | ✅/◐ je Objekt | **drin** |
+| **Interencheres** | 🇫🇷 FR | Handelsgerichte, mandataires liquidateurs | ❌ Gerichtsverkäufe sind Abholung FR | **raus**, außer Lose mit Filter „Livraison possible" |
+| **Domeinen Roerende Zaken** | 🇳🇱 NL | NL-Finanzministerium | ❌ Abholpflicht 8 Tage | **raus** |
+| **FinShop** | 🇧🇪 BE | FÖD Finanzen | ❌ Webshop nur BE, Auktion nur Abholung | **raus** |
+| ES, SE, FI, PL, LT, IT, PT staatlich | — | Steuer-/Vollstreckungsbehörden | ❌ Versand nirgends belegt | **raus** |
+
+**Merkregel bei Troostwijk:** ohne das Wort *Bezorgveiling* bzw. *Delivery auction* im
+Auktionstitel nicht bieten. Troostwijk bietet für Pickup-Auktionen keinerlei
+Transportdienst an.
+
+---
+
+### Liste B — Händler & Retouren (mindestens eine Sortierstufe)
+
+⚠️ Hier gilt weiterhin: „unpicked" und „sealed at source" sind unbelegte
+Anbieterangaben. Diese Liste rechtfertigt sich über den **Preis**, nicht über den
+Inhalt.
+
+#### B1 · Deutschland
+
+| Plattform | Ware | Versand | Zugang | Link |
+|---|---|---|---|---|
+| **RetourenDirekt** | Amazon-/Shein-Paletten, ca. 600 Artikel, ohne Manifest | ✅/◐ EU | B2B | https://retourendirekt.de/ |
+| **Restposten.de** | Mixpaletten, Retouren, Restbestände | ◐ je Anbieter | primär B2B | https://www.restposten.de/ |
+
+#### B2 · Ausland (nur mit Versand)
+
+| Plattform | Land | Ware | Versand | Zugang | Link |
+|---|---|---|---|---|---|
+| **Returnstore.pl** | 🇵🇱 PL | Mystery Boxes, Kundenretouren, Paletten | ✅ DE | Privat | https://www.returnstore.pl/en/ |
+| **King Colis** | 🇫🇷 FR | unzustellbare Pakete nach Gewicht | ✅ EU | Privat | https://www.king-colis.com/en |
+| **PackedBoxs** | 🇳🇱 NL | Mystery-/Lost-Parcel-Pakete | ✅ EU | Privat | https://packedboxs.com/ |
+| **B-Aftermarket** | 🇪🇸 ES | versiegelte Amazon-ES-Paletten | ✅/◐ EU | B2B + USt-ID | https://b-aftermarket.com/ |
+| **Stocklear** | 🇫🇷 FR | Retouren-/Überbestandspaletten | ✅/◐ Transport organisierbar | B2B | https://joblot.stocklear.eu/ |
+| **Merkandi** | 🇵🇱 PL/EU | Marktplatz: Mystery Pallets, Lost Parcels | ◐ **je Anbieter** | B2B | https://merkandi.com/wholesale/return-pallets-europe |
+| **Jobalots** | 🇪🇺 EU/UK | Retourenauktionen | ✅ EU ⚠️ **UK-Ware wegen Zoll meiden** | gemischt | https://jobalots.com/ |
+| **B-Stock Amazon EU** | 🇪🇺/US | Amazon-Liquidation | ✅ | B2B + USt-ID | https://bstock.com/amazoneu/ |
+| **GovPlanet Europe** | 🇪🇺/US | Behörden-/Militärsurplus | ◐ Parcel/LTL-Filter | gemischt | https://eu.ironplanet.com/ |
+
+Der EU-only-Konflikt zu B-Stock und GovPlanet aus Teil 7 bleibt bestehen. Unter der
+neuen Regel ist er nachrangig: beide haben Versand, damit erfüllen sie den harten
+Filter.
+
+---
+
+### Liste C — gestrichen
+
+Nicht mehr Teil der Arbeitsliste. Dokumentiert in Teil 2, 3, 7 und 8, falls die
+Entscheidung später revidiert wird:
+
+Aukro.cz · Allegro.pl · Vendora GR/BG · Osta.ee · Aukcije.hr · Huuto.net ·
+Todocoleccion · Catawiki · Auctionet · LP Foto · Leitz Photographica · Darabanth ·
+Cypria Auctions · Castle Auctions
+
+---
+
+### Tagesablauf
+
+**Zuerst (Gruppe A, Deutschland):**
+Weidler → Zoll-Auktion → Justiz-Auktion → Fundsachen-Auktion → Sonderauktionen →
+RESTLOS → VEBEG
+
+**Dann (Gruppe A, Ausland mit Versand):**
+Auctim → Troostwijk *(nur Bezorgveiling)* → Vavato *(nur Delivery Europe)* → Dorotheum
+
+**Zuletzt, nur wenn der Preis stimmt (Gruppe B):**
+Returnstore → King Colis → PackedBoxs → RetourenDirekt → B-Aftermarket → Rest
+
+Confidence: **H** für die Zuordnung Deutschland/Ausland und für die Versandbelege bei
+Auctim, Troostwijk-Bezorgveiling, DRZ und FinShop. **M** für die Versandangaben der
+Gruppe-B-Plattformen — die stammen überwiegend aus Anbieterselbstauskunft und werden
+gerade gegengeprüft.
+
+---
+
 ## Confidence & Prüfweg
 
 - **H** — Plattformen, Online-Bieten und die angegebenen Versandregeln.
