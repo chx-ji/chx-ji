@@ -578,6 +578,269 @@ Bereich, in dem Fehlbewertungen überhaupt entstehen können.
 
 ---
 
+## Teil 7 — Vertiefte Recherche & Bewertung
+
+Zweiter Rechercheduchgang, diesmal nicht auf Foto/Elektronik beschränkt, sondern auf
+alle Warenarten: verlorene/unzustellbare Pakete, Fundsachen, Kundenretouren, ungeprüfte
+Mischposten, Insolvenz- und Liquidationsware, Behörden- und Justizgut, Werkzeuge,
+Maschinen, Kleidung, Schmuck, Sammlerware, Haushalt, Fahrzeuge, Einzelgeräte,
+komplette Paletten.
+
+**Harter Filter:** EU-Plattform bzw. EU-Anbieter, online kauf-/ersteigerbar, Lieferung
+nach Deutschland möglich. UK und Belarus sind nicht Teil dieser Arbeitsliste.
+
+### Bewertungslegende
+
+| Zeichen | Bedeutung |
+|---|---|
+| ✅ Versand | Deutschland wird regulär unterstützt |
+| ◐ Versand | nur bei bestimmten Losen/Verkäufern oder über externen Transporteur |
+| ❌ Versand | Versandkriterium wird nicht zuverlässig erfüllt |
+| Privat ✅ | Privatkäufer zugelassen |
+| B2B | Gewerbe/Unternehmen erforderlich |
+
+Preisbereiche sind Größenordnungen aus aktuellen Angeboten, **keine statistischen
+Durchschnittspreise**.
+
+### Kernergebnisse
+
+**Echtes Loot:** Auctim, King Colis, Returnstore.pl, teilweise Troostwijk. Bei Auctim
+und Troostwijk ist die interessante Ware allerdings **kampagnenabhängig** — nicht jede
+Auktion enthält Lost Parcels oder Mystery-Lots. Troostwijk trennt ausdrücklich zwischen
+Abhol- und Lieferauktionen und verweist für viele Lose auf externe Spediteure.
+
+**Informationsvorteil:** lokale Märkte schlagen fertige Mystery-Box-Shops —
+Aukro.cz, Allegro.pl, Vendora GR/BG, Interencheres FR, Osta.ee, kleinere Auktionshäuser.
+Aukro meldet >30.000 verkaufte Artikel pro Tag, Allegro >20 Mio. Konsumenten. Das sind
+etablierte lokale Märkte mit sehr viel Ware, keine obskuren Shops.
+
+**Korrektur zur „ärmeres Land = billiger"-These:** nicht belastbar. Bei klar
+bezeichneten, international leicht bewertbaren Produkten funktioniert Preisarbitrage
+schlecht. Der Edge entsteht durch **lokale Sprache + lokale Plattform + unstrukturierte
+Gebrauchtware + schlechte Katalogisierung + ungetestete Mischlose + weniger
+internationale Suchbarkeit** — nicht durch das Preisniveau eines Landes. Das ist eine
+Schlussfolgerung aus der Marktstruktur, kein Nachweis eines Länderabschlags.
+
+**Frankreich ist stärker als erwartet.** Interencheres bündelt >530 Auktionatoren, Live-
+und Timed-Auktionen, von Fahrzeugen und Profi-Ausstattung bis Neuwarenbeständen und
+Haushalt/Sammlerware. Versandfilter vorhanden, aber Versand und Aufgeld bestimmt das
+jeweilige Auktionshaus.
+
+### Recherchemethode
+
+Kein Übernehmen fertiger „Mystery Box Sites"-Listen. Entscheidend war, ob hinter der
+Plattform handelbare Ware steht und ob ein deutscher Käufer realistisch teilnehmen kann.
+Bei Marktplätzen mit Verkäuferversand reicht theoretische Versandfähigkeit nicht — es
+müssen entsprechende internationale Angebote existieren bzw. der Versand beim konkreten
+Los auswählbar sein.
+
+Popularität wurde an realen Nutzungssignalen gemessen, nicht an Marketingaussagen:
+Allegro >20 Mio. Konsumenten, Aukro >30.000 Verkäufe täglich, Interencheres >530
+Auktionatoren und >5.000 Trustpilot-Bewertungen.
+
+Foren- und Reddit-Beiträge sind **keine Qualitätsbelege**, nur Stimmungsindikator für
+wiederkehrende Probleme (Transport, Zustand, Gebühren, verbindliche Gebote).
+
+### Etablierte Plattformen — Detailbewertung
+
+| Plattform | Land | Ware / Loot-Typ | Online | Versand DE | Zugang | Käuferkosten | Größenordnung | Nutzung / Forenbild |
+|---|---|---|---|---|---|---|---|---|
+| **Allegro** | 🇵🇱 PL | Einzelstücke, gebraucht, Sets, Defektware, Händlerposten, fast alle Kategorien | ✅ | ◐ je Angebot | Privat ✅ | meist kein Auktionsaufgeld; Versand/Checkout | wenige € bis viele Tsd. € | Sehr hoch: >20 Mio. Konsumenten; Reuters nennt Allegro Polens größten E-Commerce-Marktplatz. Externe Bewertungen kritischer (Support/Abwicklung) |
+| **Aukro** | 🇨🇿 CZ | Einzelstücke + Lots, gebraucht, defekt, ungeprüft, Sammler, Elektronik, Werkzeug, Haus/Garten, Auto | ✅ Auktion + Sofortkauf | ◐ je Angebot, Packeta häufig | Privat ✅ | Checkout-/Schutzkosten je Angebot | Auktionen ab 1 CZK bis viele Tsd. € | >2 Mio. Angebote, >30.000 Verkäufe täglich. Reddit nennt Käuferschutz und Packeta verbreitet, Kritik an Paketdiensten |
+| **Troostwijk** | 🇳🇱 NL | Einzelstücke, Retouren, Konvolute, Paletten, Insolvenz-, Lager-, Industrieware, gelegentlich Secret/Mixed Lots | ✅ | ◐ je Auktion/Los | Privat meist ✅, einzelne Sales B2B | Aufgeld/Steuern je Auktion | Zehnerbeträge bis sechsstellig | Sehr groß. Unterscheidet explizit Delivery- und Pickup-Auktionen. Reddit: funktionierende Käufe, aber **Gebote sind verbindlich, Storno teuer** |
+| **Interencheres** | 🇫🇷 FR | Einzelstücke, Retouren, Stock/Lagerbestände, Profi-Ware, Fahrzeuge, Hausrat, Sammlungen, Konvolute | ✅ Live + Timed | ◐ je Los, Versandfilter vorhanden | Privat ✅ | Aufgeld je Auktionshaus | wenige € bis >100.000 € | >530 Auktionatoren, Trustpilot ~3,8/5 bei >5.200 Bewertungen |
+| **Catawiki** | 🇳🇱 NL | primär Einzelstücke + kleine Lots: Sammler, Technik, Kameras, Uhren, Schmuck, Kunst, Design | ✅ | ✅ bei unterstützten EU-Verkäufern | Privat ✅ | **9 % + 3 € Buyer Protection** zzgl. Versand | ca. 20 € bis sechsstellig | Hohe internationale Reichweite → **weniger Hidden-Gem-Vorteil**. Kritik an Objektbeschreibung, Streitfällen, Gebühren |
+| **Auctim** | 🇧🇪 BE | Liquidation, Insolvenz, Überbestände, Fahrzeuge, Industrie; **zeitweise** Lost/Returned Postal Packages | ✅ | ◐ je Auktion | Privat + Firmen ✅ | Aufgeld/Steuern je Auktion | 1-€-Starts bis große Anlagen | Etabliert. Lost-Parcel-Ware ist **kein permanentes Sortiment** — Versand immer je Auktion prüfen |
+| **King Colis** | 🇫🇷 FR | echte Mystery-/unzustellbare Pakete nach Gewicht, kein Einzelwarenmarkt | ✅ Kauf | ✅ EU | Privat ✅ | kein Aufgeld; Ware + Versand | zweistellig bis einige hundert € | Hoher Loot-Faktor, niedrige Bewertbarkeit. 2026 sehr stark besuchte Pop-ups; journalistische Selbsttests zeigen **überwiegend banale Inhalte** neben seltenen Glücksfunden |
+| **Auctionet** | 🇸🇪 SE / EU-Netz | Einzelstücke + Lots europäischer Auktionshäuser: Hausrat, Design, Sammler, Foto, Technik | ✅ | ✅/◐, kompatible Paketlose EU-weit | Privat ✅ | Aufgeld + Plattform-/Transportkosten | ca. 20 € bis Zehntausende € | Etabliertes Netzwerk; wenig Mystery, gut für übersehene Einzelstücke regionaler Häuser |
+| **Dorotheum** | 🇦🇹 AT | Einzelstücke/Lots, Schmuck, Uhren, Kunst, Technik, Photographica, Fahrzeuge | ✅ | ✅/◐ je Objekt | Privat ✅ | klassisches Aufgeld | Zehnerbeträge bis hohe Sammlerwerte | Sehr etabliert → **hohe Konkurrenz bei klar wertvollen Stücken** |
+| **Vendora / Vendora BG** | 🇬🇷 GR / 🇧🇬 BG | Einzelstücke, Gebrauchtware aller Art: Computer, Konsolen, Haushalt, Business, Instrumente, Fahrzeuge | ✅ | ✅ für geeignete Artikel in alle EU-Staaten | Privat + Business ✅ | Plattform-/Versandkosten im Kaufprozess | ca. 3 € bis mehrere Tsd. € | Strategisch besonders interessant: lokale Verkäufer + direkte EU-Lieferung. Käufer prüft Ware vor endgültiger Auszahlung |
+| **Vavato** | 🇧🇪 BE | Einzelgeräte, Lagerbestände, Insolvenz, Overstock, Firmeninventar, Maschinen, Werkzeug, Haushalt | ✅ | ◐ je Los / Spedition | Privat/Firma je Verkauf | Aufgeld je Auktion | Zehnerbeträge bis Industrieanlagen | Solide Benelux-Quelle, weniger Community-Material als Troostwijk |
+| **Zoll-Auktion** | 🇩🇪 DE | Einzelstücke + Konvolute, Behörden-/Fundbüroware, Fahrzeuge, Werkzeug, Elektronik, Schmuck, Maschinen | ✅ | ◐ je Los | Privat ✅ | kein kommerzielles Plattform-Aufgeld | 1 € bis Zehntausende € | Etablierte öffentliche Plattform von Bund, Ländern, Gemeinden. **Beispiel: Kleinteile-Los mit DHL-Versand für 8 €, Maschinen/Fahrzeuge ausdrücklich ohne Versand** |
+| **Justiz-Auktion** | 🇩🇪/🇦🇹 | Einzelstücke + Lots aus Justiz-/Vollstreckungsumfeld, Fahrzeuge, Elektronik, Werkzeug, Schmuck, Hausrat | ✅ | ◐ je Los | Privat ✅ | Konditionen beim Los | 1-€-Starts bis vierstellige Fahrzeuge | Offizielle Online-Versteigerung Justiz DE/AT. Aktuell u.a. Bosch-Werkzeug ab 1 € |
+
+### Nischenplattformen mit möglichem Preisvorteil
+
+„Nische" heißt nicht unseriös, sondern: weniger internationale Bekanntheit, regionaleres
+Publikum, spezialisierte Käufer oder B2B-Struktur.
+
+| Plattform | Land | Ware / Loot-Typ | Online | Versand DE | Zugang | Gebühren | Preisgröße | Trust-Signal |
+|---|---|---|---|---|---|---|---|---|
+| **Returnstore.pl** | 🇵🇱 PL | Mystery Boxes, Kundenretouren, Mixboxen, Paletten, Overstock | ✅ Kauf | ✅ DE | Privat ✅ | kein Aufgeld; Kaufpreis + Versand | Boxen zweistellig/hunderte €, Paletten höher | Nischenanbieter, unabhängige Forendichte niedrig |
+| **Merkandi** | 🇵🇱 PL / EU | B2B-Marktplatz: Retouren, Mystery Pallets, Lost Parcels, Overstock, Restposten | ✅ | ◐ je Anbieter | überwiegend B2B | keine einheitliche Provision | hunderte € bis fünfstellig | Sehr breit, **Verkäuferqualität individuell prüfen** — Marketplace ≠ einheitliche Lieferkette |
+| **Stocklear** | 🇫🇷 FR / EU | Retouren-/Überbestands-Paletten, Händler- und Markenware | ✅ | ✅/◐, Transport organisierbar | primär B2B | je Sale/Transport | hunderte bis viele Tsd. € | Eher Reseller- als Schatzsucherplattform. Manifest reduziert Mystery **und** Überraschungsrisiko |
+| **B-Aftermarket** | 🇪🇸 ES | große Retouren-/Liquidationsposten, laut Anbieter Amazon-nah | ✅ | ✅/◐ EU | B2B | Kaufpreis + Logistik/VAT | hunderte bis mehrere Tsd. € | „unfiltered/sealed" sind **Anbieterangaben**, nicht unabhängig bestätigt |
+| **Darabanth** | 🇭🇺 HU | Einzelstücke + Lots; Antiquitäten, Sammler, Fotografie, Schmuck | ✅ | ✅ international | Privat ✅ | klassisches Aufgeld (25 %) | wenige € bis Tsd. € | Echte laufende Onlineauktionen; Forenbelege 2024–26 dünn |
+| **Osta.ee** | 🇪🇪 EE | Einzelstücke + Lots aller Art, Auktion und Festpreis | ✅ | ◐ verkäuferabhängig | Privat ✅ | Marketplace-/Zahlungskonditionen | wenige € bis Tsd. € | Wegen lokalem Publikum interessant; **Auslandsversand vor Gebot bestätigen** |
+| **Aukcije.hr** | 🇭🇷 HR | Einzelstücke, Sammler, Haushalt, Foto, Technik | ✅ | ◐ verkäuferabhängig | Privat ✅ | keine einheitliche Käuferprovision | 1-€-Starts bis Tsd. € | Regionaler Markt mit sehr niedrigen Startpreisen |
+| **Todocoleccion** | 🇪🇸 ES | Einzelstücke + Sets: Vintage, Sammler, Technik, Foto, Spielzeug, Bücher | ✅ | ◐ verkäuferabhängig | Privat ✅ | Marketplace-Konditionen | wenige € bis hochwertige Sammlerstücke | Interessant bei guter Suche in spanischen Titeln |
+| **Cypria Auctions** | 🇨🇾 CY | Einzelstücke/Lots, vorwiegend Kunst, Sammler-, Wertgegenstände | ✅ | ✅/◐ Europa | Privat ✅ | Auktionsaufgeld | hunderte bis hohe Tsd. € | **Kein echter Retourenmarkt**; sehr wenig unabhängige Forenbelege |
+| **LP Foto** | 🇸🇪 SE | Einzelgeräte + Kameralots, Objektive, Foto-/Filmtechnik | ✅ | ✅ international | Privat ✅ | Auktionsaufgeld | ca. 20 € bis viele Tsd. € | Spezialfall Foto, keine allgemeine Loot-Quelle |
+| **Leitz Photographica** | 🇦🇹 AT | hochwertige Einzelkameras, Objektive, Lots | ✅ | ✅ international | Privat ✅ | Auktionsaufgeld | hunderte bis sechsstellig | **Hohe Fachkenntnis der Käufer → geringe Chance auf Fehlbewertung** |
+| **RESTLOS** | 🇩🇪 DE | Insolvenz, Betriebsauflösung, Maschinen, Werkzeug, Büro, Gastro, Foto/Video, ganze Lager | ✅ | ◐ je Los | Privat/Firma je Auktion | Aufgeld je Auktion | 1-/10-€-Starts bis Betriebsanlagen | Versteckte Werte in Firmenauflösungen; Versand nicht selbstverständlich |
+| **Fundsachen-Auktion.de** | 🇩🇪 DE | Fundgut, Einzelgeräte, Laptops, Telefone, Kameras, Koffer/Kartons mit diversem Inhalt | ✅ | ◐ je Los | Privat ✅ | Auktion-/Versandkosten je Los | niedrig zweistellig bis vierstellig+ | **Echte Fundware statt konstruierter Amazon-Mystery-Boxen.** Nutzungsdaten relativ klein |
+| **Sonderauktionen.net** | 🇩🇪 DE | kommunale Fundsachen: Fahrräder, Kleidung, Schmuck, Haushalt, Elektronik, Sport, Werkzeug | ✅ | ◐ je Auktion | Privat ✅ | Konditionen im Los | sehr niedrige Starts bis Tsd. € | Spezialisierter deutscher Fundsachenmarkt; Forenevidenz dünn |
+| **Restposten.de** | 🇩🇪 DE / EU | Retouren, Mixpaletten, Lagerbestände, Restposten | ✅ Kauf | ◐ je Anbieter | stark B2B | Händler-/Plattformkonditionen | hunderte € pro Palette bis Großposten | **Kein einheitlicher Warenursprung** — Anbieter einzeln prüfen |
+| **RetourenDirekt** | 🇩🇪 DE | gemischte Retourenpaletten/Restposten, teils ohne Manifest | ✅ | ✅/◐ EU | B2B | Kaufpreis + Fracht | Paletten-/Großpostenniveau | „unpicked" ist Händlerangabe — **vor größerem Kauf vertraglich prüfen** |
+
+### Wichtige Einzelwarnungen
+
+**Troostwijk:** Bei „Pickup Auctions" muss der Käufer selbst abholen oder einen
+Transporteur organisieren. Für einige Regionen Deutschlands nennt Troostwijk externe
+Logistikpartner. Ein Los ist **nicht automatisch versandfähig**, nur weil das Gebot
+online erfolgt.
+
+**Allegro:** Hohe Nutzung = mehr Konkurrenz. Weniger geeignet für offensichtliche
+Neuware, besser für polnisch bezeichnete Gebraucht-/Defektware, ungewöhnliche Sets und
+falsch kategorisierte Artikel.
+
+**Verbindlichkeit von Geboten:** Auktion ist nicht eBay mit Widerruf. Ein aktueller
+deutscher Reddit-Fall zu Troostwijk dreht sich um ein versehentliches Gebot und eine
+geforderte Vertragsstrafe. **Nie erst bieten und danach Wert/Transport prüfen — immer
+umgekehrt.**
+
+### Nicht als belastbarer Treffer hochgestuft
+
+**Rumänien (ANABI, ANAF eLicitații):** Onlinegebot ja, aber Übergabeort in Rumänien
+statt integrierter Deutschlandlieferung. Nicht in der qualifizierten Hauptliste.
+
+**Italienische Gerichtsplattformen, tschechische Staatsverwertungen, griechische
+Zwangsversteigerungen:** gleiches Problem — online bieten ja, zuverlässiger EU-Versand
+nein. Ein Verzeichnis mit 50 „Auktionsseiten" wäre irreführend, wenn für fast jedes Los
+ein lokaler Abholer nötig ist.
+
+### ⚠️ Konflikt zur früheren Bewertung: B-Stock und GovPlanet
+
+Teil 2 und Teil 2b führen **B-Stock Amazon Europe** und **GovPlanet Europe** als
+aufzunehmende Quellen. Der zweite Rechercheduchgang stuft beide **zurück**: es sind
+US-Plattformen mit europäischen Lagerbeständen und entsprechen der Vorgabe „EU only"
+nicht sauber.
+
+Beide Bewertungen stehen bewusst nebeneinander. **Entscheidung offen** — hängt davon ab,
+wie streng „EU only" gemeint ist:
+- streng als Rechtsraum/Anbietersitz → beide raus
+- pragmatisch als „Ware liegt in der EU, Versand ohne Zoll" → beide bleiben, da die
+  Lagerbestände tatsächlich in der EU liegen
+
+Confidence: **M** — die Einordnung hängt an der Definition, nicht an einem Faktum.
+
+---
+
+## Teil 8 — Gesamttabelle: Größe, Bekanntheit, Favoriten-Score
+
+### Wie der Score gerechnet wird
+
+Vier Achsen, direkt aus den Muss- und Wunschkriterien abgeleitet:
+
+| Achse | Punkte | Begründung |
+|---|---|---|
+| **Versand DE** | ✅ = 2 · ◐ = 1 · ❌ = 0 | Hardfilter — ohne Versand ist alles andere egal |
+| **Privatzugang** | Privat = 1 · B2B = 0 | B2B braucht Gewerbe/USt-ID, das ist eine echte Hürde |
+| **Loot-Faktor** | 0–3 | ungeprüft/Konvolut/Fundgut/Lost Parcel = 3, sauber katalogisierte Einzelware = 0–1 |
+| **Informationsvorteil** | 0–2 | lokale Sprache + wenig internationale Konkurrenz = 2, global bekannt = 0 |
+
+**Maximum 8 Punkte.** Der Score misst Passung zu deinen Kriterien, **nicht** Qualität
+oder Seriosität der Plattform — Dorotheum ist seriöser als jede Mystery-Box-Seite und
+landet trotzdem niedrig, weil dort alle den Wert kennen.
+
+### Die Gesamttabelle
+
+Sortiert nach Score, bei Gleichstand nach Größe.
+
+| # | Plattform | Land | Größe / Bekanntheit | Versand | Zugang | Loot | Info-Vorteil | **Score** | Kurzurteil |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | **Interencheres** | 🇫🇷 FR | **sehr groß** — 530+ Auktionatoren, 5.200+ Trustpilot | ◐ 1 | Privat 1 | 3 | 2 | **7** | Beste Kombination aus Masse, Retouren und Sprachbarriere |
+| 2 | **Fundsachen-Auktion.de** | 🇩🇪 DE | klein | ◐ 1 | Privat 1 | 3 | 2 | **7** | Echte Fundkoffer, wenig Konkurrenz — Loot pur |
+| 3 | **Returnstore.pl** | 🇵🇱 PL | klein | ✅ 2 | Privat 1 | 3 | 1 | **7** | Einzige echte Mystery-Box mit glattem DE-Versand |
+| 4 | **Aukro.cz** | 🇨🇿 CZ | **groß** — 2 Mio. Angebote, 30k Verkäufe/Tag | ◐ 1 | Privat 1 | 2 | 2 | **6** | Volumen + Sprachbarriere, dein Kernmarkt |
+| 5 | **Auctim** | 🇧🇪 BE | mittel–groß | ◐ 1 | Privat 1 | 3 | 1 | **6** | Top, **aber nur wenn eine Lost-Parcel-Kampagne läuft** |
+| 6 | **Troostwijk** | 🇳🇱 NL | **sehr groß** | ◐ 1 | Privat 1 | 3 | 1 | **6** | Viel Liquidation; Pickup/Delivery streng prüfen |
+| 7 | **Zoll-Auktion** | 🇩🇪 DE | groß (DE-bekannt) | ◐ 1 | Privat 1 | 3 | 1 | **6** | Beste deutsche Behördenquelle |
+| 8 | **Sonderauktionen.net** | 🇩🇪 DE | mittel | ◐ 1 | Privat 1 | 3 | 1 | **6** | Kommunale Fundsachen, echte Blind-Ware |
+| 9 | **Vendora GR/BG** | 🇬🇷🇧🇬 | mittel (lokal stark) | ✅ 2 | Privat 1 | 1 | 2 | **6** | Lokaler Markt mit sauberem EU-Versand — strategisch stark |
+| 10 | **King Colis** | 🇫🇷 FR | bekannt (Presse 2026) | ✅ 2 | Privat 1 | 3 | 0 | **6** | Maximaler Loot, minimale Bewertbarkeit — Glücksspiel |
+| 11 | **Auctionet** | 🇸🇪 SE/EU | mittel–groß | ✅ 2 | Privat 1 | 2 | 1 | **6** | Regionale Häuser, übersehene Einzelstücke |
+| 12 | **Osta.ee** | 🇪🇪 EE | klein (lokal stark) | ◐ 1 | Privat 1 | 2 | 2 | **6** | Sehr lokales Publikum, Versand vorher klären |
+| 13 | **Aukcije.hr** | 🇭🇷 HR | klein | ◐ 1 | Privat 1 | 2 | 2 | **6** | 1-€-Starts, kaum internationale Käufer |
+| 14 | **Huuto.net** | 🇫🇮 FI | klein–mittel | ◐ 1 | Privat 1 | 2 | 2 | **6** | Finnische Sprachbarriere, wenig geprüft |
+| 15 | **Darabanth** | 🇭🇺 HU | klein | ✅ 2 | Privat 1 | 1 | 2 | **6** | ⚠️ **25 % Aufgeld** frisst den Vorteil — einrechnen |
+| 16 | **PackedBoxs** | 🇳🇱 NL | klein | ✅ 2 | Privat 1 | 3 | 0 | **6** | Wie King Colis: Loot hoch, Edge null |
+| 17 | **Jobalots** | 🇪🇺 EU/UK | mittel | ✅ 2 | gemischt 1 | 3 | 1 | **6** | ⚠️ UK-Anteil — nur EU-Lagerbestand nehmen |
+| 18 | **Allegro.pl** | 🇵🇱 PL | **sehr groß** — 20 Mio. Konsumenten | ◐ 1 | Privat 1 | 1 | 2 | **5** | Riesig, aber viel Konkurrenz; Edge nur bei schlechten Titeln |
+| 19 | **Justiz-Auktion** | 🇩🇪🇦🇹 | groß (DE-bekannt) | ◐ 1 | Privat 1 | 2 | 1 | **5** | Solide, breite Preisspanne |
+| 20 | **Vavato** | 🇧🇪 BE | mittel | ◐ 1 | Privat 1 | 2 | 1 | **5** | Benelux-Liquidation, „Delivery Europe"-Filter |
+| 21 | **RESTLOS** | 🇩🇪 DE | klein–mittel | ◐ 1 | Privat 1 | 2 | 1 | **5** | Firmenpleiten können extrem gut sein |
+| 22 | **Todocoleccion** | 🇪🇸 ES | mittel | ◐ 1 | Privat 1 | 1 | 2 | **5** | Spanischer Sprachvorteil nutzbar |
+| 23 | **Merkandi** | 🇵🇱 PL/EU | groß | ◐ 1 | B2B 0 | 3 | 1 | **5** | Riesig, aber **Händler statt Ware prüfen** |
+| 24 | **RetourenDirekt** | 🇩🇪 DE | klein | ✅ 2 | B2B 0 | 3 | 0 | **5** | Unpicked-Versprechen, B2B-Hürde |
+| 25 | **Catawiki** | 🇳🇱 NL | **sehr groß** | ✅ 2 | Privat 1 | 1 | 0 | **4** | Bequem, aber 9 % + 3 € und alle sehen dasselbe |
+| 26 | **Stocklear** | 🇫🇷 FR/EU | mittel | ✅ 2 | B2B 0 | 2 | 0 | **4** | Manifest = weniger Mystery und weniger Risiko |
+| 27 | **B-Aftermarket** | 🇪🇸 ES | klein | ✅ 2 | B2B 0 | 2 | 0 | **4** | Nur bei nachvollziehbarer Lieferkette |
+| 28 | **VEBEG** | 🇩🇪 DE | groß (staatlich) | ◐ 1 | B2B 0 | 2 | 1 | **4** | Nur mit Gewerbe, §14 BGB |
+| 29 | **Cypria Auctions** | 🇨🇾 CY | sehr klein | ◐ 1 | Privat 1 | 1 | 1 | **4** | Kein Retourenmarkt, reiner Einzelstückmarkt |
+| 30 | **Castle Auctions** | 🇨🇾 CY | sehr klein | ◐ 1 | Privat 1 | 1 | 1 | **4** | Sekundär |
+| 31 | **LP Foto** | 🇸🇪 SE | klein (Spezialist) | ✅ 2 | Privat 1 | 1 | 0 | **4** | Fachkäufer, kaum Fehlbewertung |
+| 32 | **Leitz Photographica** | 🇦🇹 AT | mittel (Spezialist) | ✅ 2 | Privat 1 | 1 | 0 | **4** | Höchste Fachkenntnis = niedrigste Chance |
+| 33 | **Dorotheum** | 🇦🇹 AT | **sehr groß** | ◐ 1 | Privat 1 | 1 | 0 | **3** | Sehr seriös, sehr professionelle Konkurrenz |
+| 34 | **Restposten.de** | 🇩🇪 DE | mittel | ◐ 1 | B2B 0 | 2 | 0 | **3** | Uneinheitlicher Warenursprung |
+| — | **B-Stock Amazon EU** | 🇪🇺/US | groß | ✅ 2 | B2B 0 | 2 | 0 | **(4)** | ⚠️ EU-only-Filter strittig, siehe Teil 7 |
+| — | **GovPlanet Europe** | 🇪🇺/US | groß | ◐ 1 | gemischt 1 | 2 | 0 | **(4)** | ⚠️ EU-only-Filter strittig, siehe Teil 7 |
+| ❌ | **Weidler / Dt. Post** | 🇩🇪 DE | bekannt | ❌ 0 | Privat 1 | 3 | 1 | **5→0** | Ware perfekt, **Hardfilter Versand nicht erfüllt** |
+
+### Ablesehilfe
+
+**Score 6–7 = tägliche Suche.** Dort ist die Kombination aus Zugänglichkeit, Blind-Ware
+und Sprachbarriere am besten.
+
+**Score 4–5 = anlassbezogen.** Entweder B2B-Hürde, oder zu viel Konkurrenz, oder
+Versand nur sporadisch.
+
+**Score 3 und darunter = beobachten, nicht jagen.** Seriös, aber dort verdient man kein
+Geld durch Informationsvorsprung.
+
+**Größe ≠ Score.** Die drei größten Plattformen (Allegro, Catawiki, Dorotheum) landen
+auf 5, 4 und 3 — genau weil ihre Größe die Konkurrenz mitbringt. Die besten Scores
+haben mittelgroße Plattformen mit Sprachbarriere oder echter Blind-Ware.
+
+### Zwei Reihenfolgen, je nach Ziel
+
+**Für echtes Mystery-Loot:**
+Auctim → Fundsachen-Auktion → Sonderauktionen → King Colis → Returnstore →
+Troostwijk-Mystery-/Return-Lots
+
+**Für systematischen Informationsvorsprung:**
+Aukro CZ → Allegro PL → Vendora GR/BG → Interencheres FR → Osta EE / Aukcije HR →
+Zoll-/Justiz-Auktion DE → Troostwijk / Vavato
+
+### Reduzierte Watchlist für tägliche Suche (12 Quellen)
+
+Aukro.cz · Allegro.pl · Vendora GR/BG · Interencheres · Auctim · Troostwijk · Vavato ·
+Zoll-Auktion · Justiz-Auktion · Sonderauktionen · Fundsachen-Auktion · RESTLOS
+
+King Colis und Returnstore daneben als **Glücksspiel-/Experimentalkategorie**, nicht als
+Kern einer Reselling-Strategie.
+
+### Der ideale Treffer
+
+**Nicht:**
+> „Sony Alpha 7S III + 24–70 mm, voll funktionsfähig"
+
+**Sondern:**
+> „Elektronika – nezkoušeno – soubor"
+> „Uszkodzone / nie testowane – zestaw"
+> „Lot matériel divers – non testé"
+> „verschiedene elektronische Gegenstände – ungeprüft"
+
+Bei einer sauber identifizierten A7S III haben Käufer europaweit nahezu dieselben
+Vergleichspreise. Bei einem 35-teiligen Konvolut auf acht schlechten Fotos ist die
+Informationsasymmetrie wesentlich größer.
+
+**Arbeitsablauf:** Modelle auf Fotos erkennen → sichtbare Komponenten einzeln bewerten →
+konservativen Restwert berechnen → Aufgeld + Versand + Defektrisiko abziehen → **vor**
+der Auktion hartes Maximalgebot festlegen.
+
+---
+
 ## Confidence & Prüfweg
 
 - **H** — Plattformen, Online-Bieten und die angegebenen Versandregeln.
@@ -586,6 +849,12 @@ Bereich, in dem Fehlbewertungen überhaupt entstehen können.
 - **H** — Existenz, Sortiment und Versandmöglichkeiten der Quellen aus Teil 2b.
 - **M** — Aussagen wie „unpicked" / „sealed at source", weil reine Händlerangabe, nicht
   unabhängig überprüfbar.
+- **H** — Nutzungszahlen in Teil 7 (Allegro >20 Mio. Konsumenten, Aukro >30.000
+  Verkäufe/Tag, Interencheres >530 Auktionatoren), da Plattform- bzw. Presseangaben.
+- **M** — der Favoriten-Score in Teil 8. Die Achsen sind nachvollziehbar, aber die
+  Gewichtung ist gesetzt, nicht gemessen. Wer Versand höher oder Loot niedriger
+  gewichtet, bekommt eine andere Reihenfolge.
+- **M** — Einordnung von B-Stock und GovPlanet, siehe Konfliktabschnitt in Teil 7.
 
 **Prüfweg:** Abgeschlossene Sony/Canon/Fuji-Lose aus **DE vs. CZ vs. PL vs. GR/BG**
 ziehen und tatsächliche Endpreise gegen deutsche Gebrauchtpreise rechnen.
