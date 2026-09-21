@@ -1117,6 +1117,89 @@ Frische sind nur dort verlässlich.
 
 ---
 
+## Teil 11 — Staatliche Verwertungsplattformen EU: geprüft, Versand fehlt überall
+
+Gezielte Prüfung, ob es außerhalb Deutschlands staatliche Verwertungsplattformen mit
+Versand nach Deutschland gibt.
+
+### Ergebnis in einem Satz
+
+**Bei keiner einzigen staatlichen EU-Plattform ist Versand nach Deutschland belegt.**
+Bei den zwei aussichtsreichsten ist sogar das Gegenteil belegt.
+
+Das ist kein Rechercheversagen, sondern strukturell: Behörden verkaufen „wie es steht
+und liegt" und wollen die Sache loswerden. Versand ist eine Dienstleistung, die eine
+Verwaltung nicht erbringt. Dass Zoll-Auktion und Justiz-Auktion überhaupt DHL-Lose
+führen, ist die Ausnahme — und gilt nur für Kleinteile.
+
+### Übersicht
+
+| Plattform | Land | Auftraggeber | Online bieten | Versand DE | Privat | Link |
+|---|---|---|---|---|---|---|
+| **Domeinen Roerende Zaken** | 🇳🇱 NL | Finanzministerium — Beschlagnahme + Aussonderung | ✅ | ❌ **Abholpflicht binnen 8 Tagen** am NL-Lagerort | ✅ | https://www.domeinenrz.nl/ |
+| **FinShop** | 🇧🇪 BE | FÖD Finanzen — Justiz, Zoll, Polizei, erbenlose Nachlässe, unzustellbare Postpakete | ✅ Auktion + Webshop | ❌ **Webshop liefert nur nach Belgien**, Auktionen nur Abholung | ✅ | https://finshop.belgium.be/ |
+| **Portal de Subastas BOE** | 🇪🇸 ES | Agencia Tributaria, Justiz, Notariat | ✅ 20 Tage offen | unbekannt, vermutlich Abholung | ✅ (M) | https://subastas.boe.es/ |
+| **Justiz-Auktion AT** | 🇦🇹 AT | Gerichtsvollzieher, Staatsanwaltschaften, Gemeinden | ✅ | ◐ **gleiche Plattform wie justiz-auktion.de** | ✅ (M) | https://www.justiz-auktion.at/ |
+| **Auktionstorget** | 🇸🇪 SE | Kronofogden (Vollstreckungsbehörde) | ✅ | ◐ **innerschwedisch belegt** (PostNord-Servicepunkt), Ausland nicht | ✅ (M) | https://auktionstorget.kronofogden.se/ |
+| **Huutokaupat / Ulosotto** | 🇫🇮 FI | finnische Vollstreckungsbehörde | ✅ | unbekannt | ✅ (M) | https://huutokaupat.com/ilmoittaja/ulosotto |
+| **e-Licytacje** | 🇵🇱 PL | Gerichtsvollzieher | ✅ seit 2020 | unbekannt | ✅ 10 % Kaution | https://licytacje.komornik.pl/ |
+| **eVaržytynės** | 🇱🇹 LT | Gerichtsvollzieher, Insolvenzverwalter, Turto bankas | ✅ | unbekannt | ⚠️ nur mit **litauischem E-Banking oder LT-E-Signatur** | https://www.evarzytynes.lt/ |
+| **Aste ADM** | 🇮🇹 IT | Agenzia delle Dogane — beschlagnahmte Zollware | ✅ | unbekannt, vermutlich Abholung am Zollamt | ✅ | https://aste.adm.gov.it/ |
+| **Agenzia del Demanio / ANBSC** | 🇮🇹 IT | Staatsvermögen / eingezogenes Mafia-Vermögen | ANBSC ✅ über RAN | unbekannt | unbekannt | https://www.agenziademanio.it/ |
+| **Bens penhorados** | 🇵🇹 PT | Autoridade Tributária — Steuerpfändung | ✅ | unbekannt | ⚠️ **portugiesische Authentifizierung** nötig | https://www.portaldasfinancas.gov.pt/ |
+
+### Die beiden interessantesten im Detail
+
+**Domeinen Roerende Zaken (NL)** — eindeutig staatlich, Privatkäufer ausdrücklich
+willkommen, Ware aus Beschlagnahme und Behördenaussonderung. Schwerpunkt Fahrzeuge und
+Boote. Kauf „wie besehen", keine Zusicherung der Gebrauchstauglichkeit.
+**Aufgeld:** 8 % (MwSt-Ware) bzw. 9,68 % (Margenware) bei Fahrzeug-/Bootsauktionen,
+6 % bzw. 7,26 % bei übrigen Gütern, plus 21 % MwSt bei MwSt-Ware.
+**K.o.:** Abholpflicht binnen 8 Tagen am niederländischen Lagerort, Termin zwingend. DRZ
+versendet nicht. Nur Drittspediteure (Brenger, PickThisUp) als Ökosystem belegt.
+
+**FinShop (BE)** — inhaltlich die vielseitigste staatliche Plattform Europas: Konvolute
+(„Lose diverser Gegenstände"), Markenkleidung und Handtaschen, Uhren, Schmuck, IT,
+Kunst, **unzustellbare Postpakete**. Drei Vertriebswege parallel: Web-Auktion, Webshop
+zu Festpreisen, Vor-Ort-Verkauf (Bornem, Haren/Brüssel, Gembloux). Der Staat ist nach
+Art. 6 belg. MwSt-GB nicht MwSt-pflichtig.
+**K.o.:** Der Webshop liefert ausdrücklich **nur an belgische Adressen** und bietet keine
+Abholung im Laden. Die Web-Auktionen liefern gar nicht — persönliche Abholung Pflicht,
+Abholung durch Dritte nur nach vorheriger schriftlicher Benennung des Fahrers.
+
+### Dänemark und Irland: keine eigene Plattform
+
+Beide Länder verwerten über **private** Auktionshäuser:
+- 🇩🇰 Polizei über Lauritz.com u.a. (ca. 38 Mio. DKK 2024; seit 2025 MwSt-pflichtig)
+- 🇮🇪 Criminal Assets Bureau über Wilsons Auctions (Proceeds of Crime Act)
+
+Das ist keine Gruppe-A-Plattform im Sinne von Teil 9, sondern ein Auktionshaus mit
+staatlichem Auftraggeber — die Anti-Sortierungs-Logik greift trotzdem.
+
+### Praktische Konsequenz
+
+**Behörde und Ausland sind zwei getrennte Strategien, nicht eine.**
+
+| Ziel | Wo |
+|---|---|
+| Behördenware mit Versand | **nur Deutschland** — Zoll-Auktion, Justiz-Auktion, Fundsachen-Auktion, Sonderauktionen. Versand nur bei Kleinteilen |
+| Ausland | **Marktplätze**, nicht Behörden — Aukro CZ, Vendora GR/BG. Dort zählt die Sprachbarriere, nicht die Quellenart |
+| Ausland + Behörde | nur mit Abholung oder eigenem Spediteur. DRZ und FinShop lohnen sich erst ab Losgröße, die die Fahrt trägt |
+
+Die einzige ausländische Quelle mit belegtem EU-Versand bleibt **Auctim** — und das ist
+keine Behörde, sondern Post-/Retourenstrom.
+
+Confidence: **H** für die Abholpflicht bei DRZ und die Belgien-Beschränkung bei FinShop
+(beide aus den jeweiligen AGB/FAQ belegt). **H** für Existenz und Auftraggeber aller
+gelisteten Plattformen. **N** für die Versandfrage bei ES, FI, PL, LT, IT, PT — dort
+wurde nichts gefunden, was nicht dasselbe ist wie „kein Versand", aber bei Behörden die
+wahrscheinlichere Lesart.
+
+**Prüfweg:** Bei Interesse an einer konkreten Plattform deren AGB-Seite direkt öffnen und
+nach „verzending / livraison / envío / wysyłka / spedizione" suchen.
+
+---
+
 ## Confidence & Prüfweg
 
 - **H** — Plattformen, Online-Bieten und die angegebenen Versandregeln.
