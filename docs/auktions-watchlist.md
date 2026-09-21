@@ -841,6 +841,164 @@ der Auktion hartes Maximalgebot festlegen.
 
 ---
 
+## Teil 9 — Quellenart & Cherry-Picking-Risiko (Behörden getrennt)
+
+Zusätzliches Kriterium, gleichrangig mit dem Versandfilter: **Wurde die Ware vor dem
+Verkauf schon einmal von jemandem durchsucht, der das Gute behalten durfte?**
+
+### Kernregel: die Verkäuferrolle entscheidet
+
+| Verkäuferrolle | Darf aussortieren? | Warum |
+|---|---|---|
+| **Primärquelle** — Behörde, Gericht, Fundbüro, Insolvenzverwalter, Post | **Nein** | Verwertet fremdes Vermögen, ist dokumentations- und abgabepflichtig. Kein Eigeninteresse an der Ware |
+| **Zwischenhändler** — kauft Paletten ein, verkauft weiter | **Ja** | Sein Geschäftsmodell *ist* die Marge. „Unpicked" ist eine Selbstauskunft, nicht prüfbar |
+| **Privatverkäufer / Marktplatz** | irrelevant | Verkauft eigene Sachen; Cherry-Picking-Frage stellt sich nicht. Hier zählt stattdessen die Beschreibungsqualität |
+
+**Konsequenz:** Alle Retouren-Palettenhändler rutschen aus der Top-Gruppe. Wer „sealed at
+source" behauptet, hat genau den Anreiz, das auch dann zu behaupten, wenn es nicht
+stimmt — und du kannst es nicht nachprüfen.
+
+---
+
+### Gruppe A — Primärquellen (Behörden, Gerichte, Verwalter)
+
+**Das ist die Gruppe, in der nicht vorsortiert wird.** Hier zuerst suchen.
+
+| Plattform | Land | Auftraggeber / Herkunft | Versand | Zugang | Anti-Sortierung |
+|---|---|---|---|---|---|
+| **Zoll-Auktion** | 🇩🇪 DE | Bund, Länder, Gemeinden — beschlagnahmt, ausgesondert, Fundgut | ◐ je Los | Privat ✅ | ✅✅✅ direkt vom Eigentümer |
+| **Justiz-Auktion** | 🇩🇪🇦🇹 | Gerichtsvollzieher, Pfandgut, Vollstreckung | ◐ je Los | Privat ✅ | ✅✅✅ gesetzliche Verwertungspflicht |
+| **Weidler / Deutsche Post** | 🇩🇪 DE | Deutsche Post — unanbringliche Sendungen, komplette Gitterwagen | ❌ Abholung Wuppertal | Privat ✅ | ✅✅✅ **die sauberste Quelle überhaupt** |
+| **VEBEG** | 🇩🇪 DE | Bund, Bundeswehr, Behörden — Aussonderung | ◐ je Los | **B2B** (§14 BGB) | ✅✅✅ staatlicher Verwerter |
+| **Sonderauktionen.net** | 🇩🇪 DE | kommunale Fundbüros | ◐ je Auktion | Privat ✅ | ✅✅✅ Fundgut, unberührt |
+| **Fundsachen-Auktion.de** | 🇩🇪 DE | Flughäfen, Verkehrsbetriebe, Fundbüros | ◐ je Los | Privat ✅ | ✅✅✅ Inhalt teils dem Auktionator unbekannt |
+| **RESTLOS** | 🇩🇪 DE | Insolvenzverwalter, Betriebsauflösungen | ◐ je Los | Privat/Firma | ✅✅ Verwalter haftet für vollständige Verwertung |
+| **Troostwijk** | 🇳🇱 NL | Insolvenzverwalter, Firmenauflösungen, Industrie | ◐ je Los | Privat/B2B | ✅✅ gleiche Logik, teils auch Händlerware |
+| **Vavato** | 🇧🇪 BE | Insolvenz, Firmeninventar, Overstock | ◐ je Los | Privat/Firma | ✅✅ gemischt — Auftraggeber je Auktion prüfen |
+| **Auctim** | 🇧🇪 BE | Liquidation, Insolvenz; zeitweise Post-Restanten | ◐ je Auktion | Privat/Firma | ✅✅ bei Lost-Parcel-Kampagnen sehr hoch |
+| **Interencheres** | 🇫🇷 FR | 530+ Auktionshäuser: Gerichtsverwertung, Insolvenz, SAV-Retouren | ◐ je Los | Privat ✅ | ✅✅ je Auktionshaus, aber überwiegend Primärverwertung |
+| **Dorotheum** | 🇦🇹 AT | u.a. behördliche und gerichtliche Verwertungen | ✅/◐ | Privat ✅ | ✅✅ seriös, aber hohe Konkurrenz |
+
+#### Wie du Gruppe-A-Lose erkennst
+
+Formulierungen, die eine Primärquelle anzeigen:
+
+- „**im Auftrag der/des** [Behörde, Zollamt, Insolvenzverwalter, Deutschen Post]"
+- „Verwertung im Auftrag des Amtsgerichts …"
+- „Fundsachen der Stadt …"
+- „Aussonderung Bundeswehr / Bundesanstalt …"
+- „aus einer Insolvenzmasse, Az. …"
+
+Formulierungen, die auf Zwischenhandel hindeuten:
+
+- „wir kaufen Retourenposten auf"
+- „unsere Paletten stammen von führenden Marktplätzen"
+- „geprüfte A/B/C-Ware"
+- „unpicked / unsortiert" **als Werbeversprechen** — eine Primärquelle muss das nicht betonen
+
+#### Rumänien: Primärquelle, aber Versand fehlt
+
+ANABI und ANAF eLicitații wären inhaltlich Gruppe A (staatliche Verwertung beschlagnahmter
+Güter), scheitern aber am Übergabeort in Rumänien. Siehe Teil 4.
+- https://anabi.just.ro/
+- https://elicitatii.anaf.ro/
+
+---
+
+### Gruppe B — Zwischenhändler (mindestens eine Sortierstufe)
+
+Nicht unseriös, aber **strukturell** cherry-picking-gefährdet. Hier ist der Preis, nicht
+der Inhalt, das Argument.
+
+| Plattform | Land | Rolle | Sortierstufen vor dir | Anti-Sortierung |
+|---|---|---|---|---|
+| **Returnstore.pl** | 🇵🇱 PL | Händler, verkauft Retourenboxen | ≥1 | ⚠️ Anbieterangabe |
+| **RetourenDirekt** | 🇩🇪 DE | Händler, Amazon-/Shein-Paletten | ≥1 | ⚠️ „unpicked" unbelegt |
+| **B-Aftermarket** | 🇪🇸 ES | Händler, Amazon-ES-Paletten | ≥1 | ⚠️ „sealed" unbelegt |
+| **Merkandi** | 🇵🇱 PL/EU | **Marktplatz** für Händler | ≥1, je Anbieter verschieden | ⚠️ pro Verkäufer prüfen |
+| **Restposten.de** | 🇩🇪 DE | Marktplatz für Händler | ≥1 | ⚠️ uneinheitlicher Ursprung |
+| **Stocklear** | 🇫🇷 FR | Händler, manifestierte Paletten | ≥1 | ⚠️ Manifest ≠ unsortiert |
+| **Jobalots** | 🇪🇺 EU/UK | Auktionator für Händlerware | ≥1 | ⚠️ plus UK-Zollthema |
+| **King Colis** | 🇫🇷 FR | Händler, kauft Postrestanten auf | ≥1 | ⚠️ Presse-Selbsttests: überwiegend banale Inhalte |
+| **PackedBoxs** | 🇳🇱 NL | Händler, Mystery-Pakete | ≥1 | ⚠️ gleiche Logik |
+| **B-Stock Amazon EU** | 🇪🇺/US | Liquidationsplattform für Amazon | ≥1 | ⚠️ plus EU-only-Konflikt, Teil 7 |
+| **GovPlanet Europe** | 🇪🇺/US | Surplus-Plattform | ≥1 | ⚠️ plus EU-only-Konflikt, Teil 7 |
+
+**Merke:** Je lauter „unsortiert" beworben wird, desto mehr ist es ein Verkaufsargument.
+Eine Zollauktion schreibt das nirgendwo hin — sie hat es schlicht nicht nötig.
+
+---
+
+### Gruppe C — Marktplätze & Privatverkäufer
+
+Cherry-Picking-Frage entfällt. Hier ist der Hebel die **Beschreibungsqualität**, nicht die
+Lieferkette.
+
+| Plattform | Land | Hebel |
+|---|---|---|
+| **Aukro.cz** | 🇨🇿 CZ | Sprachbarriere + Defektposten + Konvolute |
+| **Allegro.pl** | 🇵🇱 PL | Masse + schlechte Titel; viel Konkurrenz |
+| **Vendora GR/BG** | 🇬🇷🇧🇬 | lokale Verkäufer, sauberer EU-Versand |
+| **Osta.ee** | 🇪🇪 EE | sehr lokales Publikum |
+| **Aukcije.hr** | 🇭🇷 HR | 1-€-Starts, kaum internationale Käufer |
+| **Huuto.net** | 🇫🇮 FI | finnische Sprachbarriere |
+| **Todocoleccion** | 🇪🇸 ES | spanische Titel |
+| **Catawiki** | 🇳🇱 NL | bequem, aber global sichtbar → wenig Vorteil |
+| **Auctionet** | 🇸🇪 SE/EU | regionale Häuser, übersehene Einzelstücke |
+| **LP Foto / Leitz** | 🇸🇪🇦🇹 | Fachkäufer → kaum Fehlbewertung |
+| **Darabanth** | 🇭🇺 HU | ⚠️ 25 % Aufgeld einrechnen |
+| **Cypria / Castle** | 🇨🇾 CY | sehr klein, sekundär |
+
+---
+
+### Neue Reihenfolge mit Behördenfokus
+
+**Primär — Gruppe A, versandfähig:**
+1. Zoll-Auktion
+2. Justiz-Auktion
+3. Fundsachen-Auktion.de
+4. Sonderauktionen.net
+5. VEBEG *(B2B)*
+6. RESTLOS
+7. Troostwijk / Vavato / Auctim *(Auftraggeber je Auktion prüfen)*
+8. Interencheres *(Primärverwertung + Sprachbarriere)*
+
+**Sonderfall:** Weidler / Deutsche Post — inhaltlich Platz 1 der gesamten Liste, aber
+Abholung statt Versand. Nur relevant, wenn Anti-Sortierung schwerer wiegt als Logistik.
+
+**Sekundär — Gruppe C für den Beschreibungs-Edge:**
+Aukro.cz → Vendora GR/BG → Osta.ee / Aukcije.hr → Allegro.pl
+
+**Nur bei gutem Preis — Gruppe B:**
+Alles andere. Nicht wegen Loot, sondern wenn die Kalkulation auch bei mittelmäßigem
+Inhalt aufgeht.
+
+### Der ehrliche Haken bei Gruppe A
+
+Nicht vorsortiert heißt **nicht** unbeobachtet. Zoll- und Justiz-Auktion sind in
+Deutschland bekannt, dort bieten Profis mit. Du tauschst „niemand hat gepickt" gegen
+„mehr Konkurrenz beim Gebot".
+
+Beide Vorteile gleichzeitig gibt es am ehesten bei:
+- kleinen kommunalen Fundbüro-Auktionen (wenig Reichweite)
+- Interencheres (Primärverwertung **und** französische Sprachbarriere)
+- regionalen Insolvenzauktionen ohne internationale Bewerbung
+
+### Verhältnis zu Teil 8
+
+Teil 8 sortiert nach Zugänglichkeit und Informationsvorteil. Teil 9 ist eine **zweite,
+unabhängige Achse**. Der Score aus Teil 8 wird dadurch nicht ersetzt — bei
+widersprüchlicher Reihenfolge gilt: Gruppe A zuerst durchsuchen, Gruppe C für gezielte
+Einzelfunde, Gruppe B nur rechnerisch.
+
+Confidence: **H** für das Strukturargument — die Verkäuferrolle bestimmt, ob überhaupt
+aussortiert werden darf. **M** für die Einstufung einzelner Häuser bei Troostwijk, Vavato
+und Auctim, weil dort Primär- und Händlerware in derselben Plattform vorkommen; das ist
+je Auktion zu prüfen. **N** für jede „unpicked"-Behauptung aus Gruppe B — nicht
+verifizierbar, deshalb bewusst abgestuft statt geglaubt.
+
+---
+
 ## Confidence & Prüfweg
 
 - **H** — Plattformen, Online-Bieten und die angegebenen Versandregeln.
