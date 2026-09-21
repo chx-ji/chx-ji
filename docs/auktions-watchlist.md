@@ -1519,6 +1519,137 @@ Marktstruktur**, kein gemessener Befund — Confidence M.
 
 ---
 
+## Teil 15 — Endgültige Struktur: A · B · C · D
+
+Diese Fassung ersetzt die Arbeitslisten aus Teil 12 und 14. Frühere Teile bleiben als
+Nachweis stehen.
+
+### Aufnahmekriterium
+
+**Alles, was die Möglichkeit zu versenden hat, ist drin.** „Je Los" zählt als
+Möglichkeit — es ist filterbar, nicht ausgeschlossen. Deutsche Plattformen bleiben
+ohnehin drin, auch bei reiner Abholung.
+
+Raus ist nur, wo Versand **nachweislich nicht geht** oder **nirgends belegbar** ist.
+
+### Versand-Legende
+
+| Zeichen | Bedeutung |
+|---|---|
+| ✅ | plattformweit — jedes Angebot versandfähig |
+| ◐ | **je Los / je Verkäufer — filterbar** |
+| 🇩🇪 | deutsche Plattform, Abholung akzeptiert |
+| ❌ | Versand nicht möglich oder nirgends belegt → raus |
+
+---
+
+### Liste A — Primärquellen (nicht vorsortiert)
+
+| Plattform | Land | Auftraggeber | Versand | Zugang |
+|---|---|---|---|---|
+| **Weidler / Dt. Post** | 🇩🇪 | Deutsche Post, unanbringliche Sendungen | ◐ auf Wunsch über DieVersandExperten.de ⚠️ **36,85 % Aufgeld** | Privat |
+| **Zoll-Auktion** | 🇩🇪 | Bund, Länder, Gemeinden | ◐ Kleinteile teils 8 € DHL | Privat |
+| **Justiz-Auktion** | 🇩🇪🇦🇹 | Gerichtsvollzieher, StA | ◐ je Los; Räumungsgut nur Abholung | Privat |
+| **Fundsachen-Auktion.de** | 🇩🇪 | Flughäfen, Verkehrsbetriebe, Fundbüros | ✅ ca. 13,50 € ⚠️ 18 % + USt. aufs Aufgeld | Privat |
+| **Sonderauktionen.net** | 🇩🇪 | kommunale Fundbüros | ◐ je Auktion | Privat |
+| **RESTLOS** | 🇩🇪 | Insolvenzverwalter | 🇩🇪 überwiegend Abholung | Privat/Firma |
+| **VEBEG** | 🇩🇪 | Bund, Bundeswehr, Behörden | ◐ je Los | **B2B** §14 BGB |
+| **Dorotheum** | 🇦🇹 | u.a. behördl./gerichtl. Verwertung | ✅ organisiert Versand | Privat |
+| **Interencheres** | 🇫🇷 | Handelsgerichte, mandataires liquidateurs | ◐ **Filter „Livraison possible"** — damit wieder drin | Privat |
+| **Troostwijk** | 🇳🇱 | Insolvenzverwalter, Kuratoren | ◐ nur „Bezorgveiling" **und** DE in der Lieferregion | Privat/B2B |
+| **Vavato** | 🇧🇪 | Insolvenz, Firmeninventar | ◐ nur „Free delivery"-Auktionen | gemischt |
+| **Auctim** | 🇧🇪 | Liquidation, Post-Restanten | ◐ kampagnenweise, DE unbelegt | gemischt |
+
+**Raus aus A:** Domeinen Roerende Zaken (Abholpflicht 8 Tage, kein Plattformversand) ·
+FinShop (Webshop nur BE, Auktion nur Abholung) · staatliche Plattformen in ES, SE, FI,
+PL, LT, IT, PT (Versand nirgends belegt)
+
+---
+
+### Liste B — Händler & Retouren (Sortierrisiko, dafür Preis)
+
+| Plattform | Land | Versand | Zugang |
+|---|---|---|---|
+| **Jobalots** | 🇪🇺/PL | ✅ wörtlich „including Germany", EU-Lager Polen ⚠️ nur EU-Ware, nicht UK | gemischt |
+| **Returnstore.pl** | 🇵🇱 | ✅ Deutschland in der Länderliste | Privat/Händler |
+| **RetourenDirekt** | 🇩🇪 | ✅ Inland kostenlos, EU für Geschäftskunden | B2B |
+| **B-Aftermarket** | 🇪🇸 | ◐ „across the EU", DE nie wörtlich | **B2B + USt-ID** |
+| **Stocklear** | 🇫🇷 | ◐ „toute l'Europe", Transportangebot im Konto | B2B |
+| **Merkandi** | 🇵🇱/EU | ◐ **je Anbieter**, kein Plattformversand | B2B-Abo |
+| **Restposten.de** | 🇩🇪 | ◐ je Anbieter ⚠️ **B2B-Pflicht, Privat ohne Vollzugang** | B2B |
+| **B-Stock Amazon EU** | 🇪🇺/US | ◐ nicht nachverifiziert | B2B + USt-ID |
+| **GovPlanet Europe** | 🇪🇺/US | ◐ Parcel/LTL-Filter | gemischt |
+| **King Colis** | 🇫🇷 | ❓ Lieferländer nirgends auffindbar | — |
+| **PackedBoxs** | 🇳🇱 | ❓ nur „shipping across Europe", DE nie wörtlich | Endkunden |
+
+King Colis und PackedBoxs bleiben mit **❓** gelistet: nicht widerlegt, nur unbelegt.
+Vor dem ersten Kauf deren Versandseite selbst prüfen.
+
+---
+
+### Liste C — Marktplätze (wieder drin, weil filterbar)
+
+Hier ist der Hebel die **Beschreibungsqualität und die Sprachbarriere**, nicht die
+Quellenart. Cherry-Picking im engeren Sinn entfällt — aber Privatverkäufer verkaufen das
+Gute einzeln und den Rest als Posten. Das Ergebnis ist ähnlich, der Mechanismus ein
+anderer.
+
+| Plattform | Land | Versand | Hebel |
+|---|---|---|---|
+| **Aukro.cz** | 🇨🇿 | ◐ je Angebot, Packeta/Zásilkovna | 2 Mio. Angebote, 30k Verkäufe/Tag, Defektkonvolute, tschechische Titel |
+| **Allegro.pl** | 🇵🇱 | ◐ je Angebot, Allegro Kurier DHL/DPD | >20 Mio. Konsumenten, polnische Titel; viel Konkurrenz |
+| **Vendora GR/BG** | 🇬🇷🇧🇬 | ✅ geeignete Artikel in alle EU-Staaten | lokale Verkäufer, sauberer EU-Versand, Käuferschutz |
+| **Osta.ee** | 🇪🇪 | ◐ verkäuferabhängig | sehr lokales Publikum |
+| **Aukcije.hr** | 🇭🇷 | ◐ verkäuferabhängig | 1-€-Starts, kaum internationale Käufer |
+| **Huuto.net** | 🇫🇮 | ◐ verkäuferabhängig | finnische Sprachbarriere |
+| **Todocoleccion** | 🇪🇸 | ◐ verkäuferabhängig | spanische Titel |
+| **Cypria / Castle Auctions** | 🇨🇾 | ◐ Europa auf Anfrage | sehr klein, sekundär |
+
+**Die eigentliche Pointe bei ◐:** Verkäufer, die den Auslandsversand nicht aktiviert
+haben, sind für dich unsichtbar — aber auch für jeden anderen ausländischen Bieter. Wer
+ihn aktiviert hat, konkurriert nur mit dem lokalen Markt. Der Filter ist kein Verlust,
+er ist die Auswahl.
+
+---
+
+### Liste D — Versand plattformweit
+
+Quer zu A, B und C. Kriterium: Versand gilt für **jedes** Angebot.
+
+| Plattform | Gruppe | Käuferkosten |
+|---|---|---|
+| **Fundsachen-Auktion.de** | A | 18 % + USt. aufs Aufgeld, ca. 13,50 € Versand |
+| **Dorotheum** | A | Aufgeld, Porto extra ⚠️ Waffen nicht an Endkunden |
+| **Jobalots** | B | MwSt. auf Versand im Checkout |
+| **Returnstore.pl** | B | Kaufpreis + Versand, bei Paletten individuell |
+| **Vendora GR/BG** | C | Plattform-/Versandkosten im Kaufprozess |
+| **Catawiki** | C | 9 % + 3 € Buyer Protection |
+| **Auctionet** | C | Aufgeld + Transportkosten |
+| **Darabanth** | C | ⚠️ **25 % Käuferprovision** |
+| **LP Foto** | C | Auktionsaufgeld |
+| **Leitz Photographica** | C | Auktionsaufgeld |
+
+⚠️ **Zielkonflikt bleibt:** D ist die bequemste Liste und systematisch die mit dem
+kleinsten Vorteil. Wer Versand garantiert, senkt die Hürde für alle Bieter Europas.
+Details in Teil 14.
+
+---
+
+### Reihenfolge nach Ziel
+
+| Ziel | Reihenfolge |
+|---|---|
+| **Nicht vorsortierte Ware** | Weidler → Zoll-Auktion → Justiz-Auktion → Fundsachen-Auktion → Sonderauktionen → RESTLOS → Interencheres *(Versandfilter)* → Troostwijk *(Bezorgveiling)* |
+| **Sprachbarriere / schlechte Titel** | Aukro CZ → Vendora GR/BG → Osta EE → Aukcije HR → Huuto FI → Allegro PL → Todocoleccion ES |
+| **Ohne Logistikaufwand kaufen** | Liste D, dort nur Einzelstücke, keine Konvolute |
+| **Preisrechnung, Paletten** | Jobalots → Returnstore → RetourenDirekt → B-Aftermarket → Stocklear |
+
+Confidence: **H** für die Versandeinstufungen aus Teil 13 und für die Gebührensätze.
+**M** für ◐-Plattformen, bei denen Deutschland nicht wörtlich belegt ist. **N** für
+King Colis und PackedBoxs.
+
+---
+
 ## Confidence & Prüfweg
 
 - **H** — Plattformen, Online-Bieten und die angegebenen Versandregeln.
